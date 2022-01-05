@@ -1,0 +1,60 @@
+.headerTopp {
+    margin-bottom: 10px;
+    /* padding: 0; */
+}
+
+.carousel-caption{
+    text-align: left;
+    bottom: 0;
+    left: 0;
+    padding-bottom: 0;
+}
+
+.carousel-caption-header{
+    font-size: 3vw;
+}
+
+.slider-images{
+    height: 200px;
+}
+
+.header-text a{
+    font-size: 13px;
+}
+
+.footerLinks{
+    font-size: 0.8rem;
+    line-height: 75px;
+}
+
+.footerLinks a{
+ color: white;
+}
+
+
+.site-navigation{
+    background-color: white;
+    color: #32819f !important;
+}
+
+a.nav-link {
+    color: #32819f !important;
+}
+
+a.dropdown-toggle::after {
+    display:none !important;
+}
+
+li > a {
+    color: #32819f !important;
+}
+
+ul {
+    border: none !important;
+}
+
+.navbar-toggler{
+    width: 47px;
+    height: 34px;
+    background-color: #32819f;
+}
