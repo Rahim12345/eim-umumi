@@ -21,22 +21,20 @@
                     <h4 style="text-align: center;"><span style="color: #003366;">Azərbaycan Respublikasının Prezidenti yanında&nbsp;</span><span style="color: #003366;">Elmin İnkişafı Fondunun</span></h4>
                     <h4 style="text-align: center;"><span style="color: #003366;">dövlət büdcəsindən maliyyələşdirilməsi&nbsp;</span><span style="color: #003366;">(2010-2018)</span></h4>
                     <table class="table table-bordered">
-                        <thead>
+                        <tbody>
                         <tr>
-                            <th style="text-align: center;" bgcolor="#32819f">
+                            <td style="text-align: center;" bgcolor="#32819f">
                                 <div class="стиль38" align="center"><span style="color: #ffffff;"><strong><strong>İl</strong></strong></span></div>
-                            </th>
-                            <th style="text-align: center;" bgcolor="#32819f">
+                            </td>
+                            <td style="text-align: center;" bgcolor="#32819f">
                                 <div class="стиль38" align="center"><span style="color: #ffffff;"><strong><strong>Fondun<br>&nbsp;maliyyələşdirilməsi,&nbsp;<br>manatla</strong></strong></span></div>
-                            </th>
-                            <th bgcolor="#32819f">
+                            </td>
+                            <td bgcolor="#32819f">
                                 <div class="стиль38" style="text-align: center;" align="center"><span style="color: #ffffff;"><strong><strong>Azərbaycan Respublikasının dövlət büdcəsi haqqında</strong></strong></span></div>
                                 <div class="стиль38" style="text-align: center;" align="center"><span style="color: #ffffff;"><strong><strong>Azərbaycan Republikası Prezidentinin&nbsp;müvafiq Fərman və ya</strong></strong></span></div>
                                 <div class="стиль38" style="text-align: center;" align="center"><span style="color: #ffffff;"><strong><strong>Sərəncamın nömrəsi və tarixi, Fondla əlaqəli bəndin nömrəsi, elektron link</strong></strong></span></div>
-                            </th>
+                            </td>
                         </tr>
-                        </thead>
-                        <tbody>
                         <tr>
                             <td style="text-align: center;">
                                 <p><span style="color: #003366;">2010</span></p>
