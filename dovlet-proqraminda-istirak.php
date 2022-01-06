@@ -26,12 +26,12 @@
                     <table class="table table-bordered">
                         <tbody>
                         <tr>
-                            <td style="width: 10%;" bgcolor="#32819f">
+                            <td bgcolor="#32819f">
                                 <p style="text-align: center;"><span style="color: #ffffff;"><strong>Sıra&nbsp;</strong><strong>№-si</strong></span></p>
                             </td>
-                            <td style="text-align: center;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong>Tədbirin adı</strong></span></td>
-                            <td style="text-align: center;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong>İcraçılar</strong></span></td>
-                            <td style="text-align: center; width: 10%;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong><strong>İcra müddəti (<strong><span lang="AZ-LATIN">illər üzrə</span></strong>)</strong></strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong>Tədbirin adı</strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong>İcraçılar</strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong><strong>İcra müddəti (<strong><span lang="AZ-LATIN">illər üzrə</span></strong>)</strong></strong></span></td>
                         </tr>
                         <tr>
                             <td style="text-align: center;" colspan="4"><span lang="AZ-LATIN" style="color: #003366;">2. Peyk müşahidəsi ilə bağlı elmi tədqiqatlar aparılması</span></td>
@@ -53,12 +53,12 @@
                     <table class="table table-bordered">
                         <tbody>
                         <tr>
-                            <td style="width: 10%;" bgcolor="#32819f" width="25%">
+                            <td bgcolor="#32819f">
                                 <p style="text-align: center;"><span style="color: #ffffff;"><strong>Sıra&nbsp;</strong><strong>№-si</strong></span></p>
                             </td>
-                            <td style="text-align: center;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong>Tədbirin adı</strong></span></td>
-                            <td style="text-align: center;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong>İcraçılar</strong></span></td>
-                            <td style="width: 10%; text-align: center;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong><strong>İcra müddəti (<strong><span lang="AZ-LATIN">illər üzrə</span></strong>)</strong></strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong>Tədbirin adı</strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong>İcraçılar</strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong><strong>İcra müddəti (<strong><span lang="AZ-LATIN">illər üzrə</span></strong>)</strong></strong></span></td>
                         </tr>
                         <tr>
                             <td style="text-align: center;" colspan="4"><span lang="AZ-LATIN" style="color: #003366;">7.4. Elmi potensial və kadr təminatı</span></td>
@@ -80,12 +80,12 @@
                     <table class="table table-bordered">
                         <tbody>
                         <tr>
-                            <td style="width: 10%;" bgcolor="#32819f" width="25%">
+                            <td bgcolor="#32819f">
                                 <p style="text-align: center;"><span style="color: #ffffff;"><strong>Sıra&nbsp;</strong><strong>№-si</strong></span></p>
                             </td>
-                            <td style="text-align: center;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong>Tədbirin adı</strong></span></td>
-                            <td style="text-align: center;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong>İcraçılar</strong></span></td>
-                            <td style="text-align: center; width: 10%;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong><strong>İcra müddəti (<strong><span lang="AZ-LATIN">illər üzrə</span></strong>)</strong></strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong>Tədbirin adı</strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong>İcraçılar</strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong><strong>İcra müddəti (<strong><span lang="AZ-LATIN">illər üzrə</span></strong>)</strong></strong></span></td>
                         </tr>
                         <tr>
                             <td style="text-align: center;" colspan="4"><span lang="AZ-LATIN" style="color: #003366;">8.2. Sitrus meyvəçiliyi sahəsində elmi təminatın və kadr potensialının gücləndirilməsi</span></td>
@@ -94,7 +94,7 @@
                             <td style="text-align: center;"><span style="color: #003366;">8.2.1.</span></td>
                             <td><span style="color: #003366;">Sitrusçuluqla məşğul olan müvafiq elmi tədqiqat müəssisələrinin maddi-texniki bazasının möhkəmləndirilməsi</span></td>
                             <td><span style="color: #003366;">Kənd Təsərrüfatı Nazirliyi, İqtisadiyyat Nazirliyi, Maliyyə Nazirliyi, <strong>Elmin İnkişafı Fondu</strong></span></td>
-                            <td style="text-align: center; width: 10%;"><span style="color: #003366;">2018-2020</span></td>
+                            <td style="text-align: center;"><span style="color: #003366;">2018-2020</span></td>
                         </tr>
                         </tbody>
                     </table>
@@ -107,12 +107,12 @@
                     <table class="table table-bordered">
                         <tbody>
                         <tr>
-                            <td style="width: 10%;" bgcolor="#32819f" width="25%">
+                            <td bgcolor="#32819f">
                                 <p style="text-align: center;"><span style="color: #ffffff;"><strong>Sıra&nbsp;</strong><strong>№-si</strong></span></p>
                             </td>
-                            <td style="text-align: center;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong>Tədbirin adı</strong></span></td>
-                            <td style="text-align: center;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong>İcraçılar</strong></span></td>
-                            <td style="text-align: center; width: 10%;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong><strong>İcra müddəti (<strong><span lang="AZ-LATIN">illər üzrə</span></strong>)</strong></strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong>Tədbirin adı</strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong>İcraçılar</strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong><strong>İcra müddəti (<strong><span lang="AZ-LATIN">illər üzrə</span></strong>)</strong></strong></span></td>
                         </tr>
                         <tr>
                             <td style="text-align: center;" colspan="4"><span lang="AZ-LATIN" style="color: #003366;">8.2. Çayçılıq sahəsində elmi təminatın və kadr potensialının gücləndirilməsi</span></td>
@@ -134,12 +134,12 @@
                     <table class="table table-bordered">
                         <tbody>
                         <tr>
-                            <td style="width: 10%;" bgcolor="#32819f" width="25%">
+                            <td bgcolor="#32819f">
                                 <p style="text-align: center;"><span style="color: #ffffff;"><strong>Sıra&nbsp;</strong><strong>№-si</strong></span></p>
                             </td>
-                            <td style="text-align: center;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong>Tədbirin adı</strong></span></td>
-                            <td style="text-align: center;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong>İcraçılar</strong></span></td>
-                            <td style="text-align: center; width: 10%;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong><strong>İcra müddəti (<strong><span lang="AZ-LATIN">illər üzrə</span></strong>)</strong></strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong>Tədbirin adı</strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong>İcraçılar</strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong><strong>İcra müddəti (<strong><span lang="AZ-LATIN">illər üzrə</span></strong>)</strong></strong></span></td>
                         </tr>
                         <tr>
                             <td style="text-align: center;" colspan="4"><span lang="AZ-LATIN" style="color: #003366;">8.2. Çəltikçilik sahəsində elmi təminatın və kadr potensialının gücləndirilməsi</span></td>
@@ -160,12 +160,12 @@
                     <table class="table table-bordered">
                         <tbody>
                         <tr>
-                            <td style="width: 10%;" bgcolor="#32819f" width="25%">
+                            <td bgcolor="#32819f">
                                 <p style="text-align: center;"><span style="color: #ffffff;"><strong>Sıra&nbsp;</strong><strong>№-si</strong></span></p>
                             </td>
-                            <td style="text-align: center;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong>Tədbirin adı</strong></span></td>
-                            <td style="text-align: center;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong>İcraçılar</strong></span></td>
-                            <td style="text-align: center; width: 10%;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong><strong>İcra müddəti (<strong><span lang="AZ-LATIN">illər üzrə</span></strong>)</strong></strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong>Tədbirin adı</strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong>İcraçılar</strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong><strong>İcra müddəti (<strong><span lang="AZ-LATIN">illər üzrə</span></strong>)</strong></strong></span></td>
                         </tr>
                         <tr>
                             <td style="text-align: center;" colspan="4"><span lang="AZ-LATIN" style="color: #003366;">5.4. Gənclərin yaradıcılıq fəaliyyətinin dəstəklənməsi və asudə vaxtının təşkili</span></td>
@@ -236,11 +236,11 @@
                     <table class="table table-bordered">
                         <tbody>
                         <tr>
-                            <td style="width: 10%;" bgcolor="#32819f" width="25%">
+                            <td bgcolor="#32819f">
                                 <p style="text-align: center;"><span style="color: #ffffff;"><strong>Sıra&nbsp;</strong><strong>№-si</strong></span></p>
                             </td>
-                            <td style="text-align: center;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong>Tədbirin adı</strong></span></td>
-                            <td style="text-align: center;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong>İcraçılar</strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong>Tədbirin adı</strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong>İcraçılar</strong></span></td>
                         </tr>
                         <tr>
                             <td style="text-align: center;" colspan="3"><span style="color: #003366;">5.3. Yüksək texnologiyalar üzrə elmi-texniki potensialın gücləndirilməsi</span></td>
@@ -272,13 +272,13 @@
                     <table class="table table-bordered">
                         <tbody>
                         <tr>
-                            <td style="width: 10%; text-align: center;" bgcolor="#32819f" width="25%">
+                            <td style="text-align: center;" bgcolor="#32819f">
                                 <p><span style="color: #ffffff;"><strong>Sıra&nbsp;</strong><strong>№-si</strong></span></p>
                             </td>
-                            <td style="width: 15%; text-align: center;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong>Tədbirin adı</strong></span></td>
-                            <td style="width: 20%; text-align: center;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong>Məqsəd</strong></span></td>
-                            <td style="width: 10%; text-align: center;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong>İcra müddəti</strong></span></td>
-                            <td style="text-align: center;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong>İcraçılar</strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong>Tədbirin adı</strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong>Məqsəd</strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong>İcra müddəti</strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong>İcraçılar</strong></span></td>
                         </tr>
                         <tr>
                             <td style="text-align: center;" colspan="5"><span style="color: #003366;">6.3. Gənclərin intellektual və yaradıcılıq potensialının inkişafı</span></td>
@@ -317,11 +317,11 @@
                     <table class="table table-bordered">
                         <tbody>
                         <tr>
-                            <td style="text-align: center; width: 5%;" bgcolor="#32819f" width="25%">
+                            <td style="text-align: center;" bgcolor="#32819f">
                                 <p><span style="color: #ffffff;"><strong>Sıra&nbsp;</strong><strong>№-si</strong></span></p>
                             </td>
-                            <td style="text-align: center; width: 15%;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong>Tədbirin adı</strong></span></td>
-                            <td style="text-align: center;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong>İcraçılar</strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong>Tədbirin adı</strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong>İcraçılar</strong></span></td>
                         </tr>
                         <tr>
                             <td style="text-align: center;" colspan="3"><span style="color: #003366;">Sənayenin kadr potensialının və elmi təminatının gücləndirilməsi</span></td>
@@ -336,7 +336,7 @@
                     <hr>
                     <p style="text-align: right;">&nbsp;</p>
                     <p>&nbsp;</p>
-                    <h3 style="text-align: center;"><span style="color: #003366;">“AZƏRBAYCAN RESPUBLİKASINDA 2013-CÜ İLİN “İNFORMASİYA-</span><br><span style="color: #003366;">KOMMUNİKASİYA&nbsp;TEXNOLOGİYALARİ İLİ” ELAN EDİLMƏSİ İLƏ</span><br><span style="color: #003366;">BAĞLI TƏDBİRLƏR PLANI”</span></h3>
+                    <h3 style="text-align: center;font-size: 20px"><span style="color: #003366;">“AZƏRBAYCAN RESPUBLİKASINDA 2013-CÜ İLİN “İNFORMASİYA-</span><br><span style="color: #003366;">KOMMUNİKASİYA&nbsp;TEXNOLOGİYALARİ İLİ” ELAN EDİLMƏSİ İLƏ</span><br><span style="color: #003366;">BAĞLI TƏDBİRLƏR PLANI”</span></h3>
                     <p>&nbsp;</p>
                     <p style="text-align: right;"><em><span style="color: #003366;">Fondun Dövlət Proqramında iştirakı:</span></em></p>
                     <p style="text-align: right;"><em><span style="color: #003366;">29. Dövlət Proqramının həyata keçirilməsi üzrə tədbirlər planı</span></em></p>
@@ -345,12 +345,12 @@
                     <table class="table table-bordered">
                         <tbody>
                         <tr>
-                            <td style="text-align: center; width: 10%;" bgcolor="#32819f" width="25%">
+                            <td style="text-align: center;" bgcolor="#32819f">
                                 <p><span style="color: #ffffff;"><strong>Sıra&nbsp;</strong><strong>№-si</strong></span></p>
                             </td>
-                            <td style="text-align: center;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong>Tədbirin adı</strong></span></td>
-                            <td style="text-align: center;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong>İcraçılar</strong></span></td>
-                            <td style="text-align: center; width: 10%;" bgcolor="#32819f" width="25%"><span style="color: #ffffff;"><strong><strong>İcra müddəti</strong></strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong>Tədbirin adı</strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong>İcraçılar</strong></span></td>
+                            <td style="text-align: center;" bgcolor="#32819f"><span style="color: #ffffff;"><strong><strong>İcra müddəti</strong></strong></span></td>
                         </tr>
                         <tr>
                             <td style="text-align: center;" colspan="4"><span style="color: #003366;">İnformasiya cəmiyyəti və insan potensialının inkişafı</span></td>
