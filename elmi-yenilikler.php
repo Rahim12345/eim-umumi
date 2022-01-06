@@ -16,7 +16,7 @@
                     </p><h3 style="text-align: center;"><span style="color: #003366;">ELMİ YENİLİKLƏR</span></h3>
                     <h4 style="text-align: center;"><span style="color: #003366;">(Müxtəlif dillərdə)</span></h4>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2021/10/25/small/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/obyasneno_umensenie_celovecestvo_mozqa.jpg" alt="obyasneno_umensenie_celovecestvo_mozqa" width="200" height="133"></a></td>
@@ -36,7 +36,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2021/09/11/mks_smell/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/kosmonavtam_porucili_nayti_istocnik_zapaxa_na_mks.jpg" alt="kosmonavtam_porucili_nayti_istocnik_zapaxa_na_mks" width="200" height="133"></a></td>
@@ -56,7 +56,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2021/07/06/mercury/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/predlojena_novaya_razqadka_tayni_yadra_merkuri.jpg" alt="predlojena_novaya_razqadka_tayni_yadra_merkuri" width="200" height="133"></a></td>
@@ -76,7 +76,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2021/06/21/blood/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/korona.jpg" alt="korona" width="200" height="133"></a></td>
@@ -96,7 +96,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2021/02/04/cosmic/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/raskirita_tayna_neizvestnovo_kosmiceskovo_obyekta.jpg" alt="raskirita_tayna_neizvestnovo_kosmiceskovo_obyekta" width="200" height="133"></a></td>
@@ -116,7 +116,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2021/01/14/darksky/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/vo_vselennoy_obnarujeli_tainsvenniy_tsukliy_svet.jpg" alt="vo_vselennoy_obnarujeli_tainsvenniy_tsukliy_svet" width="200" height="133"></a></td>
@@ -136,7 +136,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2020/11/24/pompei/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/obnarujeni_novie_jertva_katastroficeskovo_izverjenie_vulkana.jpg" alt="obnarujeni_novie_jertva_katastroficeskovo_izverjenie_vulkana" width="200" height="133"></a></td>
@@ -156,7 +156,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2020/09/25/blackhole/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/poluceni_novie_snimki_qiqantskoy_cernoy_diri.jpg" alt="poluceni_novie_snimki_qiqantskoy_cernoy_diri" width="200" height="133"></a></td>
@@ -176,7 +176,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2020/09/08/death/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvan_faktor_prejdevremennoy_smerti_mujsin.jpg" alt="nazvan_faktor_prejdevremennoy_smerti_mujsin" width="200" height="133"></a></td>
@@ -196,7 +196,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2020/08/25/core/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/raskrita_zaqadka_vnutrennovo_yadra_zemli.jpg" alt="raskrita_zaqadka_vnutrennovo_yadra_zemli" width="200" height="133"></a></td>
@@ -216,7 +216,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2020/08/11/cerera/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/raskrita_zaqadka_yarkix_anomaliy_na_karlikovoy_planete.jpg" alt="raskrita_zaqadka_yarkix_anomaliy_na_karlikovoy_planete" width="200" height="133"></a></td>
@@ -236,7 +236,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2020/07/29/inhuman/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/raskrita_zaqadkamalenkix_eqipetskiy_mumiy.jpg" alt="raskrita_zaqadkamalenkix_eqipetskiy_mumiy" width="200" height="133"></a></td>
@@ -256,7 +256,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2020/07/22/magnetic/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_dalekoy_qalaktike_nasli_neizvestniy_struktura.jpg" alt="v_dalekoy_qalaktike_nasli_neizvestniy_struktura" width="200" height="133"></a></td>
@@ -276,7 +276,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2020/07/09/polinesia/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/dokazana_qipoteza_o_poyavlenii_drevney_sivilizasiya.jpg" alt="dokazana_qipoteza_o_poyavlenii_drevney_sivilizasiya" width="200" height="133"></a></td>
@@ -296,7 +296,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2020/06/04/craters/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/raskrito_proisxojdenie_zaqadocnovo_kratera_v_sibire.jpg" alt="raskrito_proisxojdenie_zaqadocnovo_kratera_v_sibire" width="200" height="133"></a></td>
@@ -316,7 +316,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2020/06/01/plum/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/naydena_krupneysaya_vulkaniceskaya_zona_na_zemle.jpg" alt="naydena_krupneysaya_vulkaniceskaya_zona_na_zemle" width="200" height="133"></a></td>
@@ -336,7 +336,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2020/05/04/ledniki/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/opisano_vliyanie_qlobalnie_poteplenie_na_poyavlenie_ne_izvestnix_virusov.jpg" alt="opisano_vliyanie_qlobalnie_poteplenie_na_poyavlenie_ne_izvestnix_virusov" width="200" height="133"></a></td>
@@ -356,7 +356,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2020/03/02/evolution/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvana_qlavnaya_pricina_razvitiya_celovecestvo.jpg" alt="nazvana_qlavnaya_pricina_razvitiya_celovecestvo" width="200" height="133"></a></td>
@@ -376,7 +376,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2020/02/06/brain/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nayden_sposob_pobedit_stranie_mozqa.jpg" alt="nayden_sposob_pobedit_stranie_mozqa" width="200" height="133"></a></td>
@@ -396,7 +396,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2020/01/21/climat/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvana_istinnaya_pricina_klimaticeskoy_katastrofi.jpg" alt="nazvana_istinnaya_pricina_klimaticeskoy_katastrofi" width="200" height="133"></a></td>
@@ -416,7 +416,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2020/01/13/goldilock/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvani_samie_podxadyasie_dla_inoplanetan_planeti.jpg" alt="nazvani_samie_podxadyasie_dla_inoplanetan_planeti" width="200" height="133"></a></td>
@@ -436,7 +436,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/12/24/ozon/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/ozonoviy_sloy_okazalsa_seryezno_povrejden.jpg" alt="ozonoviy_sloy_okazalsa_seryezno_povrejden" width="200" height="133"></a></td>
@@ -456,7 +456,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/12/13/stars/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/obnarujeni_ekzoticeksiy.jpg" alt="obnarujeni_ekzoticeksiy" width="200" height="133"></a></td>
@@ -476,7 +476,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><span style="color: #003366;"><a href="https://lenta.ru/news/2019/11/06/heart/" target="_blank"><span style="color: #003366;"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvan_sposob_predovtratit_smert_ot_serdecnoqo_pristupa.jpg" alt="nazvan_sposob_predovtratit_smert_ot_serdecnoqo_pristupa" width="200" height="133"></span></a></span></td>
@@ -496,7 +496,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/10/30/base/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/izucena_substanciya_iz_sekretnoy_yadernoy_bazi_vo_lidax.jpg" alt="izucena_substanciya_iz_sekretnoy_yadernoy_bazi_vo_lidax" width="200" height="133"></a></td>
@@ -516,7 +516,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/10/22/like_musk/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/stali_izvestni_sroki_zapuska_pervoy_vozvrasaemoy_rossiskoy_raketi_kak_u_spacex.jpg" alt="stali_izvestni_sroki_zapuska_pervoy_vozvrasaemoy_rossiskoy_raketi_kak_u_spacex" width="200" height="133"></a></td>
@@ -536,7 +536,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/10/15/happening/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvani_posledstviya_skorovo_kataklizma_na_zemle.jpg" alt="nazvani_posledstviya_skorovo_kataklizma_na_zemle" width="200" height="133"></a></td>
@@ -556,7 +556,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/10/04/life/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/raskrita_realnaya_kartibna_voznikovaniya_jizni.jpg" alt="raskrita_realnaya_kartibna_voznikovaniya_jizni" width="200" height="133"></a></td>
@@ -576,7 +576,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/09/27/hole/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/solnecnoy_sisteme_nasli_priznaki_cernoy_diri.jpg" alt="solnecnoy_sisteme_nasli_priznaki_cernoy_diri" width="200" height="133"></a></td>
@@ -596,7 +596,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/09/20/liver/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/raskrito_pricina_zaqadocnovo_zabolevaniya.jpg" alt="raskrito_pricina_zaqadocnovo_zabolevaniya" width="200" height="133"></a></td>
@@ -622,7 +622,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/09/13/cancer/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/sozdan_bezopasniy_dla_volos_sposob_leceniya_raka.jpg" alt="sozdan_bezopasniy_dla_volos_sposob_leceniya_raka" width="200" height="133"></a></td>
@@ -648,7 +648,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/09/03/esa/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/neupravlaemiy_sputnik_spacex_priznan_opasnim.jpg" alt="neupravlaemiy_sputnik_spacex_priznan_opasnim" width="200" height="133"></a></td>
@@ -668,7 +668,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/08/22/blood/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvan_qlavniy_priznak_skorovo_slaboumiya.jpg" alt="nazvan_qlavniy_priznak_skorovo_slaboumiya" width="200" height="133"></a></td>
@@ -688,7 +688,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/08/08/volcano/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/predskazano_katastroficeskoe_izverjenie_vulkana.jpg" alt="predskazano_katastroficeskoe_izverjenie_vulkana" width="200" height="133"></a></td>
@@ -708,7 +708,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/07/22/brain/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/naydena_novaya_zaqadka_celoveceskovo_mozqa.jpg" alt="naydena_novaya_zaqadka_celoveceskovo_mozqa" width="200" height="133"></a></td>
@@ -728,7 +728,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><span style="color: #003366;"><a href="https://lenta.ru/news/2019/07/10/hameleon/" target="_blank"><span style="color: #003366;"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/naydena_lucsaya_zamena_teorii_eynsteyna.jpg" alt="naydena_lucsaya_zamena_teorii_eynsteyna" width="200" height="133"></span></a></span></td>
@@ -748,7 +748,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/06/28/signal/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/raskrita_zaqadka_inoplanetnix_siqnalov_iz_kosmosa.jpg" alt="raskrita_zaqadka_inoplanetnix_siqnalov_iz_kosmosa" width="200" height="133"></a></td>
@@ -761,7 +761,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/06/19/human/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_ludyax_nasli_neizvestnie_kuski_neandertalcev.jpg" alt="v_ludyax_nasli_neizvestnie_kuski_neandertalcev" width="200" height="133"></a></td>
@@ -781,7 +781,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/06/06/pest/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvana_pricina_drevney_smertonosnoy_epidemii.jpg" alt="nazvana_pricina_drevney_smertonosnoy_epidemii" width="200" height="133"></a></td>
@@ -801,7 +801,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/05/30/planet/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/naydena_zapretnaya_planeta.jpg" alt="naydena_zapretnaya_planeta" width="200" height="133"></a></td>
@@ -821,7 +821,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/05/14/storm/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/zaviksirovana_mosneysaya_maqnitnaya_burya_na_zemle.jpg" alt="zaviksirovana_mosneysaya_maqnitnaya_burya_na_zemle" width="200" height="133"></a></td>
@@ -841,7 +841,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/05/03/dragon/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/spacex_priznala_qibel_pilotiruemoqo_korabla_crev_dragon.jpg" alt="spacex_priznala_qibel_pilotiruemoqo_korabla_crev_dragon" width="200" height="133"></a></td>
@@ -861,7 +861,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/04/24/mars/?referrer=other__2" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/mars.jpg" alt="mars" width="200" height="133"></a></td>
@@ -881,7 +881,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/04/10/black_hole/?referrer=other__1" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/predstavlena_pervaya_v_mire_fotoqrafiya_cernoy_diri.jpg" alt="predstavlena_pervaya_v_mire_fotoqrafiya_cernoy_diri" width="200" height="133"></a></td>
@@ -901,7 +901,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/03/29/nasa/?referrer=other__3" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nasa_ispitalo_perviy_marsianskiy_vertolet.jpg" alt="nasa_ispitalo_perviy_marsianskiy_vertolet" width="200" height="133"></a></td>
@@ -921,7 +921,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/03/13/death/?referrer=other__4" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvana_qlavnaya_pricina_smertelnix_bolezney_serdca.jpg" alt="nazvana_qlavnaya_pricina_smertelnix_bolezney_serdca" width="200" height="133"></a></td>
@@ -941,7 +941,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/03/06/newstar/?referrer=other__1" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/otkrita_novaya_zvezda.jpg" alt="otkrita_novaya_zvezda" width="200" height="133"></a></td>
@@ -961,7 +961,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/02/25/salt/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvana_novaya_opasnost200x133.jpg" alt="nazvana_novaya_opasnost200x133" width="200" height="133"></a></td>
@@ -981,7 +981,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/02/20/crispr/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/sozdan_noviy_sposob_borbi200x133.jpg" alt="sozdan_noviy_sposob_borbi200x133" width="200" height="133"></a></td>
@@ -1001,7 +1001,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/02/13/volcano/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/obyasneno_tainstvennoe_poyavlenie_vodi_marse_200x133.jpg" alt="obyasneno_tainstvennoe_poyavlenie_vodi_marse_200x133" width="200" height="133"></a></td>
@@ -1021,7 +1021,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/articles/2019/02/07/oumuamua/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/strannoe_telo_200x133.png" alt="strannoe_telo_200x133" width="200" height="133"></a></td>
@@ -1041,7 +1041,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/01/30/aging_disease/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/viyavleni_qlavnoe_pricini_prejdevremennoy_smerti_200x133.jpg" alt="viyavleni_qlavnoe_pricini_prejdevremennoy_smerti_200x133" width="200" height="133"></a></td>
@@ -1061,7 +1061,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/01/24/morozhenoe/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvana_samoe_poleznoe_morojno_200x133.jpg" alt="nazvana_samoe_poleznoe_morojno_200x133" width="200" height="133"></a></td>
@@ -1081,7 +1081,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/01/17/energy/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvana_posdravsiye_ot_reskovo_rosta.jpg" alt="nazvana_posdravsiye_ot_reskovo_rosta" width="200" height="133"></a></td>
@@ -1101,7 +1101,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2019/01/10/fatbrain/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvana_pricina_prejdevremennovo_stareniya_mozqa.jpg" alt="nazvana_pricina_prejdevremennovo_stareniya_mozqa" width="200" height="133"></a></td>
@@ -1121,7 +1121,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/12/20/planets/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nayden_noviy_planet.jpg" alt="nayden_noviy_planet" width="200" height="133"></a></td>
@@ -1141,7 +1141,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/12/08/mars_wind/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/zemla_v_pervie_uslusala_v_sum.jpg" alt="zemla_v_pervie_uslusala_v_sum" width="200" height="150"></a></td>
@@ -1154,7 +1154,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/11/27/proton/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/vnutri_protona_nashli.jpg" alt="vnutri_protona_nashli" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1167,7 +1167,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/11/26/eartquake/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/zamecen_sdviq_sushi.jpg" alt="zamecen_sdviq_sushi" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1180,7 +1180,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/11/22/brain/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_mozqe_ludey_nashli_zaqadocnuyu.jpg" alt="v_mozqe_ludey_nashli_zaqadocnuyu" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1193,7 +1193,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/09/03/sport/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvana_smertelnya_opasnost_fiziceskix_naqruzok.jpg" alt="nazvana_smertelnya_opasnost_fiziceskix_naqruzok" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1206,7 +1206,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/08/30/bomb/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_arktike_nashli_klimaticeskuyu.jpg" alt="v_arktike_nashli_klimaticeskuyu" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1219,7 +1219,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/08/29/universe/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/poyman_zaqadocniy_ritmicniy_siqnal.jpg" alt="poyman_zaqadocniy_ritmicniy_siqnal" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1232,7 +1232,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/08/28/vacation/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvana_neojidannaya_polza_castoqo.jpg" alt="nazvana_neojidannaya_polza_castoqo" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1245,7 +1245,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/08/24/organ/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/u_ludey_nashli_noviy_orqan.jpg" alt="u_ludey_nashli_noviy_orqan" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1258,7 +1258,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/08/22/supervolcano/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/dokazana_realnaya_opasnost_supervulkana.jpg" alt="dokazana_realnaya_opasnost_supervulkana" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1271,7 +1271,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/08/21/africa/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nayden_qiqantskiy_drevniy_monument.jpg" alt="nayden_qiqantskiy_drevniy_monument" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1284,7 +1284,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/08/20/carbohydrates/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/oproverqnut_mif_o_vrede_uqlevodov.jpg" alt="oproverqnut_mif_o_vrede_uqlevodov" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1297,7 +1297,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/08/17/universe/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/obnarujeni_priznaki_sushestvovaniya_inoy.jpg" alt="obnarujeni_priznaki_sushestvovaniya_inoy" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1310,7 +1310,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/08/14/death_cell/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/mqnovennuyu_smert_kletki_zapisali_na_video.jpg" alt="mqnovennuyu_smert_kletki_zapisali_na_video" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1323,7 +1323,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/08/13/nb/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_ssha_polucili_dalnodeystvuyushiy.jpg" alt="v_ssha_polucili_dalnodeystvuyushiy" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1336,7 +1336,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/08/10/galaxy/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/obyasneno_poyavleniye_zaqadocnoqo.jpg" alt="obyasneno_poyavleniye_zaqadocnoqo" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1349,7 +1349,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/08/09/exercise/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvano_samoye_lucsheye_sredstvo.jpg" alt="nazvano_samoye_lucsheye_sredstvo" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1362,7 +1362,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/08/08/cancer_target/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nayden_sposob_leceniya_samoqo_opasnoqo.jpg" alt="nayden_sposob_leceniya_samoqo_opasnoqo" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1375,7 +1375,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/08/07/lungs/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/vperviye_sozdani_jiznesposobniye_iskusstvenniye_leqkiye.jpg" alt="vperviye_sozdani_jiznesposobniye_iskusstvenniye_leqkiye" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1388,7 +1388,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/08/05/son/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/poterannoye_iz_za_interneta_vremya_sna_podscitali.jpg" alt="poterannoye_iz_za_interneta_vremya_sna_podscitali" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1401,7 +1401,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/08/04/hookah/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/kalyani_priznali_smertelno_opasnimi.jpg" alt="kalyani_priznali_smertelno_opasnimi" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1414,7 +1414,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/08/03/stonehenge/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/obyasneno_poyavleniye_massovoqo_zaxoroneniye_v_stounxendje.jpg" alt="obyasneno_poyavleniye_massovoqo_zaxoroneniye_v_stounxendje" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1427,7 +1427,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/08/02/superbugs/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvana_neojidannaya_opasnost_sredst.jpg" alt="nazvana_neojidannaya_opasnost_sredst" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1440,7 +1440,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/07/31/warming/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/pic_9dbdc2b25062e6f16e30434135933c6a.jpg" alt="pic_9dbdc2b25062e6f16e30434135933c6a" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1453,7 +1453,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/07/26/hole/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/podtverjdena_teoriya_otnositelnosti_eynshteyna.jpg" alt="podtverjdena_teoriya_otnositelnosti_eynshteyna" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1466,7 +1466,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/07/25/waves/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/obyasneno_yavleniye_nad_antarktidoy.jpg" alt="obyasneno_yavleniye_nad_antarktidoy" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1479,7 +1479,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/07/24/ocean/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/okeani_okazalis_pod_uqrozoy_skoroy_qlobalnoy_katastrofi.jpg" alt="okeani_okazalis_pod_uqrozoy_skoroy_qlobalnoy_katastrofi" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1492,7 +1492,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/07/23/warm/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/pokazano_neojidannoye_vliyaniye_celoveka_na_klimat.jpg" alt="pokazano_neojidannoye_vliyaniye_celoveka_na_klimat" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1505,7 +1505,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/07/20/yellowstone/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_yelloustoune_poshli_treshini.jpg" alt="v_yelloustoune_poshli_treshini" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1518,7 +1518,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/07/19/lekarstva_pochky/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_rossii_priduman_noviy_preparat_dlya.jpg" alt="v_rossii_priduman_noviy_preparat_dlya" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1531,7 +1531,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/07/18/aging/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nayden_sposob_ukrepit_serdce.jpg" alt="nayden_sposob_ukrepit_serdce" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1544,7 +1544,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/07/17/crispr/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/populyarniy_metod_redaktirovaniya_dnk_okazalsya_smertelnim.jpg" alt="populyarniy_metod_redaktirovaniya_dnk_okazalsya_smertelnim" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1557,7 +1557,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/07/16/msu/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_mqu_obyasnili_vzaimodeystviye_porod_vozrastom.jpg" alt="v_mqu_obyasnili_vzaimodeystviye_porod_vozrastom" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1570,7 +1570,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/07/13/msu/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_mqu_razrabotali_effektivnuyu_zashitu_sredstv.jpg" alt="v_mqu_razrabotali_effektivnuyu_zashitu_sredstv" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1583,7 +1583,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/07/12/aging/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/dokazana_effektivnost_sredstva_ot_stareniya.jpg" alt="dokazana_effektivnost_sredstva_ot_stareniya" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1596,7 +1596,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/07/12/mankind/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/perepisana_istoriya_vozniknoveniya_celovecestva.jpg" alt="perepisana_istoriya_vozniknoveniya_celovecestva" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1609,7 +1609,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/07/11/dinosaurus/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/perepisana_istoriya_poyavleniya_qiqantskix_dinozavrov.jpg" alt="perepisana_istoriya_poyavleniya_qiqantskix_dinozavrov" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1622,7 +1622,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/07/10/pigment/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/naydena_sozdannaya_milliard_let_nazad_kraska.jpg" alt="naydena_sozdannaya_milliard_let_nazad_kraska" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1635,7 +1635,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/07/09/lightsabers/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_bolsom_andronnom_kollaydere_zametili.jpg" alt="v_bolsom_andronnom_kollaydere_zametili" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1648,7 +1648,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/07/06/baltic/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/baltiyskomu_moru_predrekli_neobratimuyu_katastrofu.jpg" alt="baltiyskomu_moru_predrekli_neobratimuyu_katastrofu" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1661,7 +1661,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/07/03/cup_of_coffee/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/oboznacena_poleznaya_doza_kofe.jpg" alt="oboznacena_poleznaya_doza_kofe" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1674,7 +1674,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/07/02/msu/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_mqy_naucilis_lecit_posledstviya.jpg" alt="v_mqy_naucilis_lecit_posledstviya" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1687,7 +1687,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/06/27/longevity/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/naydeno_prodlevayusheye_jizn_veshestvo.jpg" alt="naydeno_prodlevayusheye_jizn_veshestvo" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1700,7 +1700,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/06/26/brain/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nayden_sposob_pereproqrammirovat_mozq.jpg" alt="nayden_sposob_pereproqrammirovat_mozq" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1713,7 +1713,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/06/25/cofee/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvana_polza_kofe_v_borbe_s_diabetom.jpg" alt="nazvana_polza_kofe_v_borbe_s_diabetom" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1726,7 +1726,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/06/22/munc/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nayden_sposob_izbejat_osobo_opasnoqo_raka.jpg" alt="nayden_sposob_izbejat_osobo_opasnoqo_raka" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1739,7 +1739,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/06/21/water/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_nedrax_zemli_obnarujili_strannuyu_vodu.jpg" alt="v_nedrax_zemli_obnarujili_strannuyu_vodu" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1752,7 +1752,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/06/20/cancer/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nayden_sposob_predotvratit.jpg" alt="nayden_sposob_predotvratit" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1765,7 +1765,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/06/18/mars/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/na_marse_nashli_istocnik_vodi.jpg" alt="na_marse_nashli_istocnik_vodi" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1778,7 +1778,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/06/15/black_hole/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/poyavilas_pervaya_fotoqrafiya_kormyashey_chornoy.jpg" alt="poyavilas_pervaya_fotoqrafiya_kormyashey_chornoy" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1791,7 +1791,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/06/14/pandoravirus/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/dokazano_sushestvovaniye.jpg" alt="dokazano_sushestvovaniye" width="200" height="133"></a><img id="__mcenew" alt=""></td>
@@ -1804,7 +1804,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/06/10/planet/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/naydeni_tri_dvoynika_zemli.jpg" alt="naydeni_tri_dvoynika_zemli" width="200" height="133"></a></td>
@@ -1817,7 +1817,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/06/08/bees/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/inyekciya_prevratila_mirnix_pcol.jpg" alt="inyekciya_prevratila_mirnix_pcol" width="200" height="133"></a></td>
@@ -1830,7 +1830,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/06/07/infected/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_ostankax_drevneqo_jivotnoqo.jpg" alt="v_ostankax_drevneqo_jivotnoqo" width="200" height="133"></a></td>
@@ -1843,7 +1843,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/06/04/water/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/u_vodi_nashli_neojidanniye_anomalniye_svoystva.jpg" alt="u_vodi_nashli_neojidanniye_anomalniye_svoystva" width="200" height="133"></a></td>
@@ -1856,7 +1856,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="815">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/06/01/glio/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/dokazana_effektivnost_vakcini.jpg" alt="dokazana_effektivnost_vakcini" width="200" height="133"></a></td>
@@ -1869,7 +1869,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table style="height: 127px;" width="815">
+                    <table style="height: 127px;">
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/05/30/peru/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/obyasneno_proisxojdeniye_drevney.jpg" alt="obyasneno_proisxojdeniye_drevney" width="200" height="133"></a></td>
@@ -1882,7 +1882,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/05/23/storm/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_smertelnix_uraqanax_nawli_antimateriyu.jpg" alt="v_smertelnix_uraqanax_nawli_antimateriyu" width="200" height="133"></a></td>
@@ -1895,7 +1895,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/05/22/virus/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/zareqistrirovana_smertelno_opasnaya.jpg" alt="zareqistrirovana_smertelno_opasnaya" width="200" height="133"></a></td>
@@ -1908,7 +1908,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/05/21/coldest/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/mks_stanet_samim_xolodnim_mestom.jpg" alt="mks_stanet_samim_xolodnim_mestom" width="200" height="133"></a></td>
@@ -1921,7 +1921,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://www.sdf.gov.az/%20vperviye_izuceni_vnutrennosti	 Впервые изучены внутренности элементарной частицы Физики-ядерщики, работающие в Национальной ускорительной лаборатории Джефферсона (США), впервые измерили распределение давления внутри протона. 17 мая 2018" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/obyasneno_deystviye_naruwayuweqo.jpg" alt="obyasneno_deystviye_naruwayuweqo" width="200" height="133"></a></td>
@@ -1934,7 +1934,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/05/14/smoking/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvani_katastroficeskiye_posledstviya.jpg" alt="nazvani_katastroficeskiye_posledstviya" width="200" height="133"></a></td>
@@ -1947,7 +1947,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/05/11/wave/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/zafiksirovana_samaya_bolshaya_volna.jpg" alt="zafiksirovana_samaya_bolshaya_volna" width="200" height="133"></a></td>
@@ -1960,7 +1960,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/05/10/star/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_kosmose_nashli_novuyu_raznovidnost.jpg" alt="v_kosmose_nashli_novuyu_raznovidnost" width="200" height="133"></a></td>
@@ -1973,7 +1973,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/05/08/orbit/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/dokazano_katastroficeskoye_smesheniye.jpg" alt="dokazano_katastroficeskoye_smesheniye" width="200" height="133"></a></td>
@@ -1986,7 +1986,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/05/07/cancer/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nayden_sposob_pobedit_rak.jpg" alt="nayden_sposob_pobedit_rak" width="200" height="133"></a></td>
@@ -1999,7 +1999,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/05/04/hominini/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/naydeni_sledi_tainstvennix_predkov.jpg" alt="naydeni_sledi_tainstvennix_predkov" width="200" height="133"></a></td>
@@ -2012,7 +2012,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/05/03/blood/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/opredelena_samaya_smertonosnaya_qruppa_krovi.jpg" alt="opredelena_samaya_smertonosnaya_qruppa_krovi" width="200" height="133"></a></td>
@@ -2025,7 +2025,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/04/30/vegetarians/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvan_qlavniy_sposob_predotvratit_prejdevremennuyu_smert.jpg" alt="nazvan_qlavniy_sposob_predotvratit_prejdevremennuyu_smert" width="200" height="133"></a></td>
@@ -2038,7 +2038,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/04/27/cancer/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/obyasnen_mexanizim_poyavleniya_neizlecimoqo_raka.jpg" alt="obyasnen_mexanizim_poyavleniya_neizlecimoqo_raka" width="200" height="133"></a></td>
@@ -2051,7 +2051,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/04/26/ur_mom/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nayden_samiy_krupniy_obyekt_vo_veselennoy.jpg" alt="nayden_samiy_krupniy_obyekt_vo_veselennoy" width="200" height="133"></a></td>
@@ -2064,7 +2064,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/04/25/dna/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_jivix_orqanizmax_nasli.jpg" alt="v_jivix_orqanizmax_nasli" width="200" height="133"></a></td>
@@ -2077,7 +2077,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/04/24/rkk/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/rosskosmos_anqoli_eqipta.jpg" alt="rosskosmos_anqoli_eqipta" width="200" height="133"></a></td>
@@ -2090,7 +2090,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/articles/2018/04/23/spacethreat/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/russkiy_moqilshik.jpg" alt="russkiy_moqilshik" width="200" height="133"></a></td>
@@ -2103,7 +2103,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/04/21/cancer/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/ucheniye_razrabotali.jpg" alt="ucheniye_razrabotali" width="199" height="133"></a></td>
@@ -2116,7 +2116,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2018/04/20/yonger/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/naydeno_sredstvo_omolojeniya_serdca_i_sosudov_2.jpg" alt="naydeno_sredstvo_omolojeniya_serdca_i_sosudov_2" width="200" height="133"></a></td>
@@ -2129,7 +2129,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/04/19/diamond/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_solnecnoy_sisteme_nasli_poqibsuyu_planetu.jpg" alt="v_solnecnoy_sisteme_nasli_poqibsuyu_planetu" width="200" height="133"></a></td>
@@ -2142,7 +2142,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/04/18/cancer/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvana_qlavnaya_pricina_razvitiya_neizlecimovo_raka.jpg" alt="nazvana_qlavnaya_pricina_razvitiya_neizlecimovo_raka" width="200" height="133"></a></td>
@@ -2155,7 +2155,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/articles/2018/04/17/spacex/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/maskam_tut_ne_mesto.jpg" alt="maskam_tut_ne_mesto" width="200" height="133"></a></td>
@@ -2168,7 +2168,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/04/16/satellite/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/raskrita_zaqadka_temnoy_materii_vnutri_kletki.jpg" alt="raskrita_zaqadka_temnoy_materii_vnutri_kletki" width="200" height="133"></a></td>
@@ -2181,7 +2181,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/04/13/golf_stream/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_atlantike_obnarujili_priznaki_qlobalnoy_katastrofi.jpg" alt="v_atlantike_obnarujili_priznaki_qlobalnoy_katastrofi" width="200" height="133"></a></td>
@@ -2195,7 +2195,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/articles/2018/04/11/space/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/skvoz_ternii.jpg" alt="skvoz_ternii" width="200" height="133"></a></td>
@@ -2208,7 +2208,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/04/11/hole_merging/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/naydena_novaya_raznovoditnost_kosmiceksiy_katastrof.jpg" alt="naydena_novaya_raznovoditnost_kosmiceksiy_katastrof" width="200" height="133"></a></td>
@@ -2221,7 +2221,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/04/10/finger/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/qipoteza_proisxojdeniya_ludey_priznana_nesostayatelnoy.jpg" alt="qipoteza_proisxojdeniya_ludey_priznana_nesostayatelnoy" width="200" height="133"></a></td>
@@ -2234,7 +2234,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/04/09/activity/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvan_bezotkazniy_sposob_izbejat_prejdevremennoy_smerti.jpg" alt="nazvan_bezotkazniy_sposob_izbejat_prejdevremennoy_smerti" width="200" height="133"></a></td>
@@ -2248,7 +2248,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/04/06/uspeh/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/u_finansovo_uspesnix_ludey_obnarujena_fizioloqiceskiy_osobennost.jpg" alt="u_finansovo_uspesnix_ludey_obnarujena_fizioloqiceskiy_osobennost" width="200" height="133"></a></td>
@@ -2269,7 +2269,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/04/05/droneengine/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/rossiya_sozdala_originalniy_turboreaktivniy_dviqatel.jpg" alt="rossiya_sozdala_originalniy_turboreaktivniy_dviqatel" width="200" height="133"></a></td>
@@ -2290,7 +2290,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/04/04/spin_ice/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/otkrita_novaya_forma_anomalnoy_materii.jpg" alt="otkrita_novaya_forma_anomalnoy_materii" width="200" height="133"></a></td>
@@ -2309,7 +2309,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/04/03/ads/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/fiziki_priblizilis_k_sozdaniyu_teorii_vseqo.jpg" alt="fiziki_priblizilis_k_sozdaniyu_teorii_vseqo" width="200" height="133"></a></td>
@@ -2322,7 +2322,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/04/02/wtf/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/vnutri_raka_lexqiy_nasli_nedorazovitiy_orqanizim.jpg" alt="vnutri_raka_lexqiy_nasli_nedorazovitiy_orqanizim" width="200" height="133"></a></td>
@@ -2335,7 +2335,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/03/30/raptor/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/spacex_sozdala_samiy_tyaqovorujenniy_mire_dviqatel.jpg" alt="spacex_sozdala_samiy_tyaqovorujenniy_mire_dviqatel" width="200" height="133"></a></td>
@@ -2348,7 +2348,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/03/29/roscosmos/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/rossiyane_poletat_k_mks_na_korabla_spacex.jpg" alt="rossiyane_poletat_k_mks_na_korabla_spacex" width="200" height="133"></a></td>
@@ -2368,7 +2368,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/03/28/299/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/apple_predstavila_obnovlenniy_ipad.jpg" alt="apple_predstavila_obnovlenniy_ipad" width="200" height="133"></a></td>
@@ -2381,7 +2381,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/03/27/war/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvani_silneysie_strani_mira_budusevo.jpg" alt="nazvani_silneysie_strani_mira_budusevo" width="200" height="133"></a></td>
@@ -2394,7 +2394,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/03/19/omega_6/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/viyevlyan_nadejniy_sposob_izbejat_prejdevremennoy_smerti.jpg" alt="viyevlyan_nadejniy_sposob_izbejat_prejdevremennoy_smerti" width="200" height="133"></a></td>
@@ -2407,7 +2407,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/03/16/paradox/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/dokazen_vnesneva_vesa.jpg" alt="dokazen_vnesneva_vesa" width="200" height="133"></a></td>
@@ -2420,7 +2420,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/03/15/ultimathule/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/amerikanskaya_stanciya_podletit_k_tule.jpg" alt="amerikanskaya_stanciya_podletit_k_tule" width="200" height="133"></a></td>
@@ -2433,7 +2433,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/03/13/aging/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvan_edinstvenniy_sposob_zatormozit_starenie.jpg" alt="nazvan_edinstvenniy_sposob_zatormozit_starenie" width="200" height="156"></a></td>
@@ -2446,7 +2446,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/articles/2018/03/13/angara/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/ese_poletom.jpg" alt="ese_poletom" width="200" height="133"></a></td>
@@ -2459,7 +2459,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/03/12/mars/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/ilon_mask_nazval_srok_pervoqo_starta_korabla_dlya_poleta_na_mars.jpg" alt="ilon_mask_nazval_srok_pervoqo_starta_korabla_dlya_poleta_na_mars" width="200" height="133"></a></td>
@@ -2472,7 +2472,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/03/09/pamat/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nayden_noviy_sposob_ulucsit_pamat.jpg" alt="nayden_noviy_sposob_ulucsit_pamat" width="200" height="133"></a></td>
@@ -2485,7 +2485,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/03/08/juno/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/ucenie_zaqlyanuli_vqlub_yupitera.jpg" alt="ucenie_zaqlyanuli_vqlub_yupitera" width="200" height="125"></a></td>
@@ -2498,7 +2498,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/03/07/vaccines/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/sozdana_polnostu_unictajasiye_rak_vakcina.jpg" alt="sozdana_polnostu_unictajasiye_rak_vakcina" width="200" height="133"></a></td>
@@ -2511,7 +2511,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/03/06/salt/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvana_novaya_opasnost_soli.jpg" alt="nazvana_novaya_opasnost_soli" width="200" height="133"></a></td>
@@ -2524,7 +2524,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/03/05/virus/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/naydeni_spocob_unictojat_rak_s_pomosu_virusov.jpg" alt="naydeni_spocob_unictojat_rak_s_pomosu_virusov" width="200" height="133"></a></td>
@@ -2537,7 +2537,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/03/02/frozen/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_vecnoy_merzlote_nasli_novuyu_uqrozu_celovecestvo.jpg" alt="v_vecnoy_merzlote_nasli_novuyu_uqrozu_celovecestvo" width="200" height="133"></a></td>
@@ -2550,7 +2550,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/02/28/mimivirus/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/naydeni_poxojie_na_ludey_virusu.jpg" alt="naydeni_poxojie_na_ludey_virusu" width="200" height="133"></a></td>
@@ -2563,7 +2563,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/02/28/heating/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/na_severnom_poluse_ustanovilis_anomalnaya_jara.jpg" alt="na_severnom_poluse_ustanovilis_anomalnaya_jara" width="200" height="133"></a></td>
@@ -2576,7 +2576,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/02/27/galo/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/brazilci_uvideli_solnce_sdvumyami_kolcami.jpg" alt="brazilci_uvideli_solnce_sdvumyami_kolcami" width="200" height="150"></a></td>
@@ -2589,7 +2589,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/02/26/radiation/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/ucenie_priznali_susestvanie_pitayusixsya_radiaciey_inoplanetyan.jpg" alt="ucenie_priznali_susestvanie_pitayusixsya_radiaciey_inoplanetyan" width="200" height="133"></a></td>
@@ -2602,7 +2602,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/02/23/neandertal/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/oproverqnuta_umstvennaya_otstalas_neandertalcev.jpg" alt="oproverqnuta_umstvennaya_otstalas_neandertalcev" width="200" height="133"></a></td>
@@ -2615,7 +2615,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/02/22/spacex/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/spacex_s_cetvertovo_raza_zapustila_qlobalniy_internet.jpg" alt="spacex_s_cetvertovo_raza_zapustila_qlobalniy_internet" width="200" height="133"></a></td>
@@ -2628,7 +2628,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/02/21/maya/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/krupneysaya_podvodnaya_pesera_okazalas_kladbisem_maya.jpg" alt="krupneysaya_podvodnaya_pesera_okazalas_kladbisem_maya" width="200" height="133"></a></td>
@@ -2647,7 +2647,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/02/20/taino/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/amerike_naslas_iscesnuvsaya_civilizaciya.jpg" alt="amerike_naslas_iscesnuvsaya_civilizaciya" width="200" height="133"></a></td>
@@ -2660,7 +2660,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/02/19/disorder/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/smertelno_opasniye_slabomie_priznali_zaraznim.jpg" alt="smertelno_opasniye_slabomie_priznali_zaraznim" width="200" height="133"></a></td>
@@ -2678,7 +2678,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/02/16/genes/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/naydeni_rabotayusie_posle_smerti_qeni.jpg" alt="naydeni_rabotayusie_posle_smerti_qeni" width="200" height="133"></a></td>
@@ -2695,7 +2695,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/02/15/virus/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/sozdana_effektivnaya_vakcina_ot_raka.jpg" alt="sozdana_effektivnaya_vakcina_ot_raka" width="200" height="133"></a></td>
@@ -2714,7 +2714,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/02/13/ice_world/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/pod_lennikom_nasli_zateranniy_mir.jpg" alt="pod_lennikom_nasli_zateranniy_mir" width="200" height="133"></a></td>
@@ -2731,7 +2731,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/02/13/flu/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/sozdana_idealnaya_lekarstvo_ot_qripaa.jpg" alt="sozdana_idealnaya_lekarstvo_ot_qripaa" width="200" height="133"></a></td>
@@ -2750,7 +2750,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/02/12/cancer/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/naydeno_effektivnoe_lekarstvo_protiv_raka.jpg" alt="naydeno_effektivnoe_lekarstvo_protiv_raka" width="200" height="149"></a></td>
@@ -2763,7 +2763,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/02/09/teleport/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/ucenie_vpervie_teleportavali_enerqii_solnca.jpg" alt="ucenie_vpervie_teleportavali_enerqii_solnca" width="200" height="149"></a></td>
@@ -2776,7 +2776,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/02/09/fh/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/vvs_ssa_i_nasa_otkazalis_ot_falcon_heavy.jpg" alt="vvs_ssa_i_nasa_otkazalis_ot_falcon_heavy" width="200" height="149"></a></td>
@@ -2790,7 +2790,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/02/08/vaccine/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/sozdana_universalnaya_vakcina_ot_raka.jpg" alt="sozdana_universalnaya_vakcina_ot_raka" width="200" height="149"></a></td>
@@ -2806,7 +2806,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/02/08/virus/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/virusu_okazalis_sozdatelam_celovecestvo.jpg" alt="virusu_okazalis_sozdatelam_celovecestvo" width="200" height="149"></a></td>
@@ -2819,7 +2819,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/articles/2018/02/05/superheavy/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/rossiya_prosit_pomosi_u_ssa_a_spacex_zapuskaet_raketu_na_mars.jpg" alt="rossiya_prosit_pomosi_u_ssa_a_spacex_zapuskaet_raketu_na_mars" width="200" height="149"></a></td>
@@ -2832,7 +2832,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/02/07/virus/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/zafiksirovan_dojd_iz_virusov.jpg" alt="zafiksirovan_dojd_iz_virusov" width="200" height="149"></a></td>
@@ -2847,7 +2847,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/02/07/health/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvani_sposobi_izbejat_prejdevremennoy_smerti.jpg" alt="nazvani_sposobi_izbejat_prejdevremennoy_smerti" width="200" height="149"></a></td>
@@ -2866,7 +2866,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/02/07/superionic/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/dokazona_susestvovanie_novoy_formi_materii.jpg" alt="dokazona_susestvovanie_novoy_formi_materii" width="200" height="149"></a></td>
@@ -2885,7 +2885,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/02/06/permafrost/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/predskazano_skoroe_nastuplenie_qlobalniye_katastrofa.jpg" alt="predskazano_skoroe_nastuplenie_qlobalniye_katastrofa" width="200" height="149"></a></td>
@@ -2898,7 +2898,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/02/06/cancer/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvana_qlavnaya_pricina_raka.jpg" alt="nazvana_qlavnaya_pricina_raka" width="200" height="149"></a></td>
@@ -2911,7 +2911,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/02/06/chimera/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_tropikax_nasli_drevnuyu_paukoobraznuyu_ximeri.jpg" alt="v_tropikax_nasli_drevnuyu_paukoobraznuyu_ximeri" width="200" height="133"></a></td>
@@ -2924,7 +2924,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/01/30/sonlivost/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/mediki_ustanovili_svyaz_mejdu_dnevnim_snom_i_smertelnoy_bolezn.jpg" alt="mediki_ustanovili_svyaz_mejdu_dnevnim_snom_i_smertelnoy_bolezn" width="200" height="133"></a></td>
@@ -2937,7 +2937,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/01/29/star/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/obyasneno_zaqadocnie_dvijenie_zvezd_v_mlecnom_puti.jpg" alt="obyasneno_zaqadocnie_dvijenie_zvezd_v_mlecnom_puti" width="200" height="133"></a></td>
@@ -2951,7 +2951,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/01/29/sugar/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/naydena_novaya_opasnost_saxara.jpg" alt="naydena_novaya_opasnost_saxara" width="200" height="133"></a></td>
@@ -2964,7 +2964,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/01/29/rip/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/microsoft_okoncatelno_poxoranila_windows_phone.jpg" alt="microsoft_okoncatelno_poxoranila_windows_phone" width="200" height="133"></a></td>
@@ -2977,7 +2977,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/01/29/msu/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_mqu_raspoznali_siqnali.jpg" alt="v_mqu_raspoznali_siqnali" width="200" height="133"></a></td>
@@ -2990,7 +2990,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/01/28/tothemoonandback/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvana_data_puska_mosneynes_v_mire_raketi.jpg" alt="nazvana_data_puska_mosneynes_v_mire_raketi" width="200" height="133"></a></td>
@@ -3003,7 +3003,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/01/28/voinich/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/rassifrovania_nacalo_tainstvo.jpg" alt="rassifrovania_nacalo_tainstvo" width="200" height="133"></a></td>
@@ -3017,7 +3017,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/01/27/muzika/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/ucenie_nasli_universalniy.jpg" alt="ucenie_nasli_universalniy" width="200" height="133"></a></td>
@@ -3030,7 +3030,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/01/26/brainverse/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nayden_istocnik_soznaniya.jpg" alt="nayden_istocnik_soznaniya" width="200" height="133"></a></td>
@@ -3043,7 +3043,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2018/01/25/clone/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/uconiye_naucilis_klonirovat_lyudey.jpg" alt="uconiye_naucilis_klonirovat_lyudey" width="200" height="133"></a></td>
@@ -3056,7 +3056,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2017/05/03/mice/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/uceniye_prizvali_otkazatsa_ot_opitov_na.jpg" alt="uceniye_prizvali_otkazatsa_ot_opitov_na" width="200" height="133"></a></td>
@@ -3069,7 +3069,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2017/05/02/microsoft/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/microsoft_predstavila_noviy_noutbuk.jpg" alt="microsoft_predstavila_noviy_noutbuk" width="200" height="133"></a></td>
@@ -3082,7 +3082,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2017/04/26/chain_mail/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/sozdana_kolcuqa_dlya_kosmiceskix_korabley.jpg" alt="sozdana_kolcuqa_dlya_kosmiceskix_korabley" width="200" height="133"></a></td>
@@ -3095,7 +3095,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2017/04/26/influenza/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvana_opasnost_requlyarnix_privivok_ot_qrippa.jpg" alt="nazvana_opasnost_requlyarnix_privivok_ot_qrippa" width="200" height="133"></a></td>
@@ -3108,7 +3108,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2017/04/25/fungi/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/obnarujen_samiy_drevniy_mnoqokletocniy.jpg" alt="obnarujen_samiy_drevniy_mnoqokletocniy" width="200" height="133"></a></td>
@@ -3121,7 +3121,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/astrocourier-febr-march-2017_xeberler_ucun.pdf" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/astrocourier_kicik.jpg" alt="astrocourier_kicik" width="200" height="134"></a></td>
@@ -3134,7 +3134,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2017/04/03/solarsystem/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvano_maksimalno_vozmojnoye_cislo.jpg" alt="nazvano_maksimalno_vozmojnoye_cislo" width="200" height="133"></a></td>
@@ -3147,7 +3147,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;">&nbsp;<a href="https://lenta.ru/news/2017/04/03/supersonic_plasma/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_atmosfere_zemli_nawli_sverxzvukoviye.jpg" alt="v_atmosfere_zemli_nawli_sverxzvukoviye" width="200" height="133"></a></td>
@@ -3160,7 +3160,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2017/03/15/supervolcano/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/predstavlena_karta_mowneywix.jpg" alt="predstavlena_karta_mowneywix" width="200" height="133"></a></td>
@@ -3173,7 +3173,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2017/03/15/tornado/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/sozdana_samaya_podrobnaya_model.jpg" alt="sozdana_samaya_podrobnaya_model" width="200" height="133"></a></td>
@@ -3186,7 +3186,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2017/03/14/black_hole/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/raskrita_pricina_poyavleniya_giqantskix.jpg" alt="raskrita_pricina_poyavleniya_giqantskix" width="200" height="133"></a></td>
@@ -3199,7 +3199,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2017/03/13/hypergiants/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_nasa_pokazali_qnezdo_qipergiqantov.jpg" alt="v_nasa_pokazali_qnezdo_qipergiqantov" width="200" height="133"></a></td>
@@ -3212,7 +3212,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2017/03/13/drone/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/sozdan_neubivayemiy_upruqiy.jpg" alt="sozdan_neubivayemiy_upruqiy" width="200" height="133"></a></td>
@@ -3225,7 +3225,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2017/03/10/pelmen/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/vozle_saturna_sfotoqrafirovali.jpg" alt="vozle_saturna_sfotoqrafirovali" width="200" height="133"></a></td>
@@ -3238,7 +3238,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2017/03/03/maven/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nasa_spaslo_stansiyu_maven.jpg" alt="nasa_spaslo_stansiyu_maven" width="200" height="133"></a></td>
@@ -3252,7 +3252,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2017/03/03/mars/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_nasa_predlojili_prolojit_tunnel.jpg" alt="v_nasa_predlojili_prolojit_tunnel" width="200" height="133"></a></td>
@@ -3266,7 +3266,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2017/03/03/juno/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nasa_pokazalo_snimok_giqantskovo.jpg" alt="nasa_pokazalo_snimok_giqantskovo" width="200" height="133"></a></td>
@@ -3280,7 +3280,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2017/03/03/new_mattter/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/fiziki_sozdali_novuyu_formu_materii.jpg" alt="fiziki_sozdali_novuyu_formu_materii" width="200" height="133"></a></td>
@@ -3294,7 +3294,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2017/03/02/mars/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/na_marse_naydeni_sledi_mowneywevo.jpg" alt="na_marse_naydeni_sledi_mowneywevo" width="200" height="133"></a></td>
@@ -3308,7 +3308,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2017/03/02/milk/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/vraci_opredelili_lucwiy_sposob.jpg" alt="vraci_opredelili_lucwiy_sposob" width="200" height="133"></a></td>
@@ -3322,7 +3322,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2017/03/02/habitation/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/predstavlen_proyekt_kosmiceskoy.jpg" alt="predstavlen_proyekt_kosmiceskoy" width="200" height="133"></a></td>
@@ -3336,7 +3336,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2017/03/01/atlasv/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/swa_zapustili_raketu_atlas_v.jpg" alt="swa_zapustili_raketu_atlas_v" width="200" height="133"></a></td>
@@ -3350,7 +3350,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2017/02/28/msu/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/v_mqu_sozdali_panaseyu_ot.jpg" alt="v_mqu_sozdali_panaseyu_ot" width="200" height="133"></a></td>
@@ -3364,7 +3364,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2017/02/28/earth/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/raskrito_proisxojdeniye_kontinentov.jpg" alt="raskrito_proisxojdeniye_kontinentov" width="200" height="133"></a></td>
@@ -3379,7 +3379,7 @@
                     </table>
                     <hr>
                     <p>&nbsp;</p>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2016/11/04/toads/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/qlobalnoye_potepleniye_zastavilo.jpg" alt="qlobalnoye_potepleniye_zastavilo" width="200" height="133"></a></td>
@@ -3393,7 +3393,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2016/11/03/chinastrong/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/kitay_zapustil_krupneyshuyu_raketu.jpg" alt="kitay_zapustil_krupneyshuyu_raketu" width="200" height="133"></a></td>
@@ -3407,7 +3407,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2016/11/03/stars/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/naydeno_sxodstvo_mejdu.jpg" alt="naydeno_sxodstvo_mejdu" width="200" height="133"></a></td>
@@ -3421,7 +3421,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2016/11/03/pump/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/sozdan_iskustvenniy_nerv.jpg" alt="sozdan_iskustvenniy_nerv" width="200" height="133"></a></td>
@@ -3435,10 +3435,10 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
-                            <td style="width: 210px; text-align: left;"><a href="https://lenta.ru/news/2016/11/03/skiaparelli/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/obnarujeni_fraqmenti.jpg" alt="obnarujeni_fraqmenti" width="200" height="133"></a></td>
+                            <td style="text-align: left;"><a href="https://lenta.ru/news/2016/11/03/skiaparelli/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/obnarujeni_fraqmenti.jpg" alt="obnarujeni_fraqmenti" width="200" height="133"></a></td>
                             <td>
                                 <h4>&nbsp;&nbsp;</h4>
                                 <h4 class="b-topic__title"><span style="color: #003366;"><a href="https://lenta.ru/news/2016/11/03/skiaparelli/" target="_blank"><span style="color: #003366;">Обнаружены фрагменты «Скиапарелли» на&nbsp;поверхности Марса</span></a></span></h4>
@@ -3449,7 +3449,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2016/11/02/obesity/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/infeksionniye_zabolevaniya.jpg" alt="infeksionniye_zabolevaniya" width="200" height="133"></a></td>
@@ -3463,7 +3463,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><a href="https://lenta.ru/news/2016/10/31/eat_it/" target="_blank"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/sozdan_poyedayushiy_jiviye.jpg" alt="sozdan_poyedayushiy_jiviye" width="200" height="133"></a></td>
@@ -3478,7 +3478,7 @@
                     </table>
                     <hr>
                     <p>&nbsp;</p>
-                    <table style="height: 143px;" width="817">
+                    <table style="height: 143px;">
                         <tbody>
                         <tr>
                             <td style="width: 210px; text-align: left;"><span style="color: #003366;"><a href="https://lenta.ru/news/2016/05/25/mars/" target="_blank"><span style="color: #003366;"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/mars.jpg" alt="mars" width="200" height="133"></span></a></span></td>
@@ -3491,7 +3491,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px; text-align: left;"><span style="color: #003366;">&nbsp;<a href="https://lenta.ru/news/2016/05/25/longevity/" target="_blank"><span style="color: #003366;"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/qlavniy_sposob.jpg" alt="qlavniy_sposob" width="200" height="133"></span></a></span></td>
@@ -3504,7 +3504,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px; text-align: left;"><span style="color: #003366;">&nbsp;<a href="https://lenta.ru/news/2016/05/25/roscosmos/" target="_blank"><span style="color: #003366;"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/roskosmos.jpg" alt="roskosmos" width="200" height="133"></span></a></span></td>
@@ -3517,7 +3517,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><span style="color: #003366;">&nbsp;<a href="https://lenta.ru/news/2016/05/24/squids/" target="_blank"><span style="color: #003366;"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/uconiye_uznali.jpg" alt="uconiye_uznali" width="200" height="133"></span></a></span></td>
@@ -3530,7 +3530,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><span style="color: #003366;">&nbsp;<a href="https://lenta.ru/news/2016/05/24/memory/" target="_blank"><span style="color: #003366;"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/uconiye_razqledeli.jpg" alt="uconiye_razqledeli" width="200" height="133"></span></a></span></td>
@@ -3543,7 +3543,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><span style="color: #003366;">&nbsp;<a href="https://lenta.ru/news/2016/05/24/carbon/" target="_blank"><span style="color: #003366;"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/nazvani.jpg" alt="nazvani" width="200" height="133"></span></a></span></td>
@@ -3556,7 +3556,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><span style="color: #003366;"><a href="https://lenta.ru/news/2016/05/24/macbooks/" target="_blank"><span style="color: #003366;"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/macbook.jpg" alt="macbook" width="200" height="133"></span></a></span></td>
@@ -3569,7 +3569,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><span style="color: #003366;"><a href="https://lenta.ru/news/2016/05/24/crispr/" target="_blank"><span style="color: #003366;"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/dnk_nojnici.jpg" alt="dnk_nojnici" width="200" height="133"></span></a></span></td>
@@ -3582,7 +3582,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><span style="color: #003366;">&nbsp;<a href="https://lenta.ru/news/2016/05/23/intron/" target="_blank"><span style="color: #003366;"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/musor_okazalsa.jpg" alt="musor_okazalsa" width="200" height="133"></span></a></span></td>
@@ -3595,7 +3595,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><span style="color: #003366;">&nbsp;<a href="https://lenta.ru/news/2016/05/24/nopasswords/" target="_blank"><span style="color: #003366;"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/android.jpg" alt="android" width="200" height="133"></span></a></span></td>
@@ -3608,7 +3608,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><span style="color: #003366;">&nbsp;<a href="https://lenta.ru/news/2016/05/24/superflares/" target="_blank"><span style="color: #003366;"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/trigger.jpg" alt="trigger" width="200" height="133"></span></a></span></td>
@@ -3621,7 +3621,7 @@
                         </tbody>
                     </table>
                     <hr>
-                    <table width="817">
+                    <table>
                         <tbody>
                         <tr>
                             <td style="width: 210px;"><span style="color: #003366;">&nbsp;<a href="https://lenta.ru/news/2016/05/23/species/" target="_blank"><span style="color: #003366;"><img src="https://www.sdf.gov.az/development/uploads/elmi_yenilikler/biologi.jpg" alt="biologi" width="200" height="133"></span></a></span></td>
