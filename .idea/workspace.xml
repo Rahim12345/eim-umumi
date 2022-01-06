@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11daf73c-4da6-4401-a492-7cb09555f27f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/yaranma-tarixi.php" beforeDir="false" afterPath="$PROJECT_DIR$/yaranma-tarixi.php" afterDir="false" />
-    </list>
+    <list default="true" id="11daf73c-4da6-4401-a492-7cb09555f27f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +75,7 @@
       <workItem from="1640760960703" duration="8908000" />
       <workItem from="1640866234944" duration="4441000" />
       <workItem from="1641363830615" duration="615000" />
-      <workItem from="1641423223859" duration="6561000" />
+      <workItem from="1641423223859" duration="6877000" />
     </task>
     <servers />
   </component>
