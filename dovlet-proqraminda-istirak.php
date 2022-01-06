@@ -336,7 +336,7 @@
                     <hr>
                     <p style="text-align: right;">&nbsp;</p>
                     <p>&nbsp;</p>
-                    <h3 style="text-align: center;font-size: 20px"><span style="color: #003366;">“AZƏRBAYCAN RESPUBLİKASINDA 2013-CÜ İLİN “İNFORMASİYA-</span><br><span style="color: #003366;">KOMMUNİKASİYA&nbsp;TEXNOLOGİYALARİ İLİ” ELAN EDİLMƏSİ İLƏ</span><br><span style="color: #003366;">BAĞLI TƏDBİRLƏR PLANI”</span></h3>
+                    <h3 style="text-align: center;font-size: 1rem"><span style="color: #003366;">“AZƏRBAYCAN RESPUBLİKASINDA 2013-CÜ İLİN “İNFORMASİYA-</span><br><span style="color: #003366;">KOMMUNİKASİYA&nbsp;TEXNOLOGİYALARİ İLİ” ELAN EDİLMƏSİ İLƏ</span><br><span style="color: #003366;">BAĞLI TƏDBİRLƏR PLANI”</span></h3>
                     <p>&nbsp;</p>
                     <p style="text-align: right;"><em><span style="color: #003366;">Fondun Dövlət Proqramında iştirakı:</span></em></p>
                     <p style="text-align: right;"><em><span style="color: #003366;">29. Dövlət Proqramının həyata keçirilməsi üzrə tədbirlər planı</span></em></p>
