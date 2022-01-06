@@ -14,7 +14,7 @@
         </div>-->
         <div class="" style=" padding: 10px 16px;min-height:460px;">
             <p>
-            </p><p style="text-align: center;"><span style="color: #003366;"><img src="../development/uploads/gerb_azerbaijan.jpg" alt="gerb_azerbaijan" width="96" height="105">&nbsp;</span></p>
+            </p><p style="text-align: center;"><span style="color: #003366;"><img src="https://www.sdf.gov.az/development/uploads/gerb_azerbaijan.jpg" alt="gerb_azerbaijan" width="96" height="105">&nbsp;</span></p>
             <p style="text-align: center; padding-left: 30px;"><span style="color: #003366;"><strong>“Azərbaycan Respublikasının Prezidenti yanında Elmin İnkişafı Fondunun <br>Nizamnaməsi”nin təsdiq edilməsi haqqında</strong></span></p>
             <p style="text-align: center; padding-left: 30px;"><span style="color: #003366;">&nbsp;AZƏRBAYCAN RESPUBLİKASI PREZİDENTİNİN FƏRMANI</span><br><br></p>
             <p style="padding-left: 30px;"><span style="color: #003366;">Azərbaycan Respublikasının Prezidenti yanında Elmin İnkişafı Fondunun fəaliyyətini təmin etmək məqsədi ilə&nbsp;<strong>qərara alıram:</strong></span></p>
@@ -25,7 +25,7 @@
             <p style="padding-left: 30px; text-align: left;"><span style="color: #003366;">Bakı şəhəri, 19 fevral 2010-cu il</span><br><span style="color: #003366;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; №223</span><br><br></p>
             <hr>
             <h4 style="text-align: right;"><span style="color: #003366;">&nbsp;</span></h4>
-            <p style="text-align: center;"><span style="color: #003366;"><img src="../development/uploads/gerb_azerbaijan.jpg" alt="gerb_azerbaijan" width="96" height="105">&nbsp;</span></p>
+            <p style="text-align: center;"><span style="color: #003366;"><img src="https://www.sdf.gov.az/development/uploads/gerb_azerbaijan.jpg" alt="gerb_azerbaijan" width="96" height="105">&nbsp;</span></p>
             <h4 style="text-align: center;"><span style="color: #003366;">&nbsp;</span></h4>
             <p style="text-align: center;"><span style="color: #003366;"><strong>Azərbaycan Respublikasının Prezidenti yanında Elmin İnkişafı Fondunun<br></strong></span></p>
             <p style="text-align: center;"><span style="color: #003366;"><strong>NİZAMNAMƏSİ</strong><br></span></p>
@@ -40,7 +40,7 @@
             <p style="text-align: justify; padding-left: 30px;"><span style="color: #003366;">1.7.&nbsp;Fondun fəaliyyəti və saxlanma xərcləri Azərbaycan Respublikasının dövlət büdcəsi və qanunvericiliklə nəzərdə tutulan digər<br>&nbsp; &nbsp; &nbsp; &nbsp;mənbələr hesabına maliyyələşdirilir.</span></p>
             <p style="text-align: justify; padding-left: 30px;"><span style="color: #003366;">1.8.&nbsp;Fond Bakı şəhərində yerləşir.</span></p>
             <hr>
-            <h4 style="text-align: right;"><span style="color: #003366;"><em><span style="color: #003366;">PDF: </span></em></span><span style="color: #003366;"><em><a href="../development/uploads/nizamname/nizamname.pdf" target="_blank"><span style="color: #003366;">Azərbaycan Respublikasının Prezidenti yanında Elmin İnkişafı Fondunun nizamnaməsi</span></a></em></span></h4>
+            <h4 style="text-align: right;"><span style="color: #003366;"><em><span style="color: #003366;">PDF: </span></em></span><span style="color: #003366;"><em><a href="https://www.sdf.gov.az/development/uploads/nizamname/nizamname.pdf" target="_blank"><span style="color: #003366;">Azərbaycan Respublikasının Prezidenti yanında Elmin İnkişafı Fondunun nizamnaməsi</span></a></em></span></h4>
             <p>&nbsp;</p>
             <p>&nbsp;</p>                        <p></p>
 
