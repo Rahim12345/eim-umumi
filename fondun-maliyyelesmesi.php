@@ -21,7 +21,7 @@
                     <h4 style="text-align: center;"><span style="color: #003366;">Azərbaycan Respublikasının Prezidenti yanında&nbsp;</span><span style="color: #003366;">Elmin İnkişafı Fondunun</span></h4>
                     <h4 style="text-align: center;"><span style="color: #003366;">dövlət büdcəsindən maliyyələşdirilməsi&nbsp;</span><span style="color: #003366;">(2010-2018)</span></h4>
                     <table class="table table-bordered">
-                        <tbody>
+                        <thead>
                         <tr>
                             <td style="text-align: center;" bgcolor="#32819f">
                                 <div class="стиль38" align="center"><span style="color: #ffffff;"><strong><strong>İl</strong></strong></span></div>
@@ -35,6 +35,8 @@
                                 <div class="стиль38" style="text-align: center;" align="center"><span style="color: #ffffff;"><strong><strong>Sərəncamın nömrəsi və tarixi, Fondla əlaqəli bəndin nömrəsi, elektron link</strong></strong></span></div>
                             </td>
                         </tr>
+                        </thead>
+                        <tbody>
                         <tr>
                             <td style="text-align: center;">
                                 <p><span style="color: #003366;">2010</span></p>
