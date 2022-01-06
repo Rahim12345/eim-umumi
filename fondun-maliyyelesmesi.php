@@ -23,17 +23,17 @@
                     <table class="table table-bordered">
                         <thead>
                         <tr>
-                            <td style="text-align: center;" bgcolor="#32819f">
+                            <th style="text-align: center;" bgcolor="#32819f">
                                 <div class="стиль38" align="center"><span style="color: #ffffff;"><strong><strong>İl</strong></strong></span></div>
-                            </td>
-                            <td style="text-align: center;" bgcolor="#32819f">
+                            </th>
+                            <th style="text-align: center;" bgcolor="#32819f">
                                 <div class="стиль38" align="center"><span style="color: #ffffff;"><strong><strong>Fondun<br>&nbsp;maliyyələşdirilməsi,&nbsp;<br>manatla</strong></strong></span></div>
-                            </td>
-                            <td bgcolor="#32819f">
+                            </th>
+                            <th bgcolor="#32819f">
                                 <div class="стиль38" style="text-align: center;" align="center"><span style="color: #ffffff;"><strong><strong>Azərbaycan Respublikasının dövlət büdcəsi haqqında</strong></strong></span></div>
                                 <div class="стиль38" style="text-align: center;" align="center"><span style="color: #ffffff;"><strong><strong>Azərbaycan Republikası Prezidentinin&nbsp;müvafiq Fərman və ya</strong></strong></span></div>
                                 <div class="стиль38" style="text-align: center;" align="center"><span style="color: #ffffff;"><strong><strong>Sərəncamın nömrəsi və tarixi, Fondla əlaqəli bəndin nömrəsi, elektron link</strong></strong></span></div>
-                            </td>
+                            </th>
                         </tr>
                         </thead>
                         <tbody>
