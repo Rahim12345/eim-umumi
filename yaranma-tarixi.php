@@ -25,7 +25,7 @@
                     <table>
                         <tbody>
                         <tr>
-                            <td style="width: 260px; height: 190px;"><span style="color: #003366;"><img src="https://www.sdf.gov.az/development/uploads/ilham_aliyev_serencam.jpg" alt="ilham_aliyev_serencam" width="250" height="180"></span></td>
+                            <td style="width: 260px; height: 190px;"><span style="color: #003366;"><img src="https://www.sdf.gov.az/development/uploads/ilham_aliyev_serencam.jpg" alt="ilham_aliyev_serencam" width="100%"></span></td>
                             <td style="text-align: justify;"><span style="color: #003366;">Azərbaycan Respublikasının Prezidenti İlham Əliyevin 7 iyul 2011-ci il tarixli sərəncamı ilə təsdiq edilmiş "Azərbaycan gəncliyi 2011-2015-ci illərdə" Dövlət Proqramı respublikamızda dövlət gənclər siyasətinin formalaşdırılması istiqamətində irəliyə doğru atılan daha bir addım olmuşdur.</span></td>
                         </tr>
                         </tbody>
