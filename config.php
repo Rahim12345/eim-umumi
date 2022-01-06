@@ -1,2 +1,2 @@
 <?php
-define('domain','http://demo.rahimsuleymanov.com');
+define('domain','http://eim.test');
