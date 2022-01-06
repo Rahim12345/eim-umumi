@@ -38,7 +38,7 @@
                         </div>
 
                         <p style="text-align: justify;">
-                            <span style="font-size:12px;"></span></p><h2>Yeni İliniz və Həmrəylik Gününüz Mübarək!</h2>
+                            <span style="font-size:12px;"></span></p>Yeni İliniz və Həmrəylik Gününüz Mübarək!
                         <p></p>
                         <p></p>
                         <div class="clear"></div>
@@ -98,7 +98,7 @@
                         </div>
 
                         <p style="text-align: justify;">
-                            <span style="font-size:12px;"></span></p><h2>17 Noyabr Milli Dirçəliş Günüdür.</h2>
+                            <span style="font-size:12px;"></span></p>17 Noyabr Milli Dirçəliş Günüdür.
                         <p></p>
                         <p></p>
                         <div class="clear"></div>
@@ -118,7 +118,7 @@
                         </div>
 
                         <p style="text-align: justify;">
-                            <span style="font-size:12px;"></span></p><h2>12 Noyabr Azərbaycan Respublikasının Konstitusiya Günüdür.</h2>
+                            <span style="font-size:12px;"></span></p>12 Noyabr Azərbaycan Respublikasının Konstitusiya Günüdür.
                         <p></p>
                         <p></p>
                         <div class="clear"></div>
