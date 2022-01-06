@@ -17,15 +17,15 @@
                     <hr>
                     <h3 style="text-align: center;"><span style="color: #003366;">&nbsp;</span></h3>
                     <h4 style="text-align: center;"><span style="color: #003366;">AZƏRBAYCAN MİLLİ ELMLƏR AKADEMİYASININ İNSTİTUT VƏ TƏŞKİLATLARI</span></h4>
-                    <table class="table table-bordered" width="95%">
+                    <table class="table table-bordered">
                         <tbody>
                         <tr>
-                            <td style="width: 25px;"><span style="color: #003366;"><strong>№</strong></span></td>
-                            <td style="width: 130px;"><span style="color: #003366;"><strong>Qurumun adı</strong></span></td>
-                            <td style="width: 120px;"><span style="color: #003366;"><strong>Ünvan</strong></span></td>
-                            <td style="width: 120px;"><span style="color: #003366;"><strong>Telefon</strong></span></td>
-                            <td style="width: 120px;"><span style="color: #003366;"><strong>Faks</strong></span></td>
-                            <td style="width: 140px;"><span style="color: #003366;"><strong>Rəsmi saytı və elektron ünvanı</strong></span></td>
+                            <td><span style="color: #003366;"><strong>№</strong></span></td>
+                            <td><span style="color: #003366;"><strong>Qurumun adı</strong></span></td>
+                            <td><span style="color: #003366;"><strong>Ünvan</strong></span></td>
+                            <td><span style="color: #003366;"><strong>Telefon</strong></span></td>
+                            <td><span style="color: #003366;"><strong>Faks</strong></span></td>
+                            <td><span style="color: #003366;"><strong>Rəsmi saytı və elektron ünvanı</strong></span></td>
                         </tr>
                         <tr>
                             <td><span style="color: #003366;">&nbsp;</span></td>
@@ -33,10 +33,10 @@
                         </tr>
                         <tr>
                             <td><span style="color: #003366;">1</span></td>
-                            <td style="width: 170px;"><span style="color: #003366;">Fizika İnstitutu</span></td>
-                            <td style="width: 120px;"><span style="color: #003366;"><span lang="TR">A</span><span lang="EN-US">Z</span><span lang="TR">1073,<span class="apple-converted-space">&nbsp;</span></span><span lang="EN-US">Bakı ş., H.Cavid pr., 115</span></span></td>
-                            <td style="width: 120px;"><span style="color: #003366;">(+994&nbsp;12) 538 76 46</span></td>
-                            <td style="width: 120px;"><span style="color: #003366;">(+994&nbsp;12) 539 59 61</span></td>
+                            <td><span style="color: #003366;">Fizika İnstitutu</span></td>
+                            <td><span style="color: #003366;"><span lang="TR">A</span><span lang="EN-US">Z</span><span lang="TR">1073,<span class="apple-converted-space">&nbsp;</span></span><span lang="EN-US">Bakı ş., H.Cavid pr., 115</span></span></td>
+                            <td><span style="color: #003366;">(+994&nbsp;12) 538 76 46</span></td>
+                            <td><span style="color: #003366;">(+994&nbsp;12) 539 59 61</span></td>
                             <td>
                                 <p><span style="color: #003366;"><a href="http://www.physics.gov.az" target="_blank"><span style="color: #003366;">physics.gov.az</span></a>,</span></p>
                                 <p><span style="color: #003366;">azhep@physics.ab.az</span></p>
@@ -114,8 +114,8 @@
                             <td><span style="color: #003366;">7</span></td>
                             <td><span style="color: #003366;">Akademik Yusif Məmmədəliyev adına Neft-Kimya Prosesləri İnstitutu</span></td>
                             <td><span style="color: #003366;">AZ1025, Bakı ş., Xocalı pr., 30</span></td>
-                            <td style="width: 120px;"><span style="color: #003366;">(+994&nbsp;12) 490 24 76</span></td>
-                            <td style="width: 120px;"><span style="color: #003366;">(+994&nbsp;12) 490 35 20</span></td>
+                            <td><span style="color: #003366;">(+994&nbsp;12) 490 24 76</span></td>
+                            <td><span style="color: #003366;">(+994&nbsp;12) 490 35 20</span></td>
                             <td>
                                 <p><a href="http://www.nkpi.az/" target="_blank"><span style="color: #003366;"><span style="color: #003366;">nkpi.az</span></span></a></p>
                                 <p><span style="color: #003366;">nkpi@nkpi.az</span></p>
@@ -170,8 +170,8 @@
                             <td><span style="color: #003366;">11</span></td>
                             <td><span style="color: #003366;">Neft və Qaz İnstitutu</span></td>
                             <td><span style="color: #003366;">AZ1000, Bakı şəh., F.Əmirov küç., 9</span></td>
-                            <td style="width: 120px;"><span style="color: #003366;">(+994 12) 493 67 51</span></td>
-                            <td style="width: 120px;"><span style="color: #003366;">(+994 12) 493 67 89&nbsp;</span></td>
+                            <td><span style="color: #003366;">(+994 12) 493 67 51</span></td>
+                            <td><span style="color: #003366;">(+994 12) 493 67 89&nbsp;</span></td>
                             <td>
                                 <p><a href="http://ogi.az/index.php" target="_blank"><span style="color: #003366;"><span style="color: #003366;">ogi.az</span></span></a></p>
                                 <p><span style="color: #003366;">neft-qaz@science.az&nbsp;</span></p>
@@ -353,11 +353,11 @@
                                 <p><span style="color: #003366;">Məhəmməd Füzuli adına Əlyazmalar İnstitutu</span></p>
                             </td>
                             <td><span style="color: #003366;">Bakı şəhəri, İstiqlaliyyət küç., 26</span></td>
-                            <td style="width: 120px;"><span style="color: #003366;">(+994&nbsp;12) 493 31 97,</span>
+                            <td><span style="color: #003366;">(+994&nbsp;12) 493 31 97,</span>
                                 <p><span style="color: #003366;">(+994&nbsp;12) 492 83 33,</span></p>
                                 <p><span style="color: #003366;">(+994&nbsp;12) 492 14 01</span></p>
                             </td>
-                            <td style="width: 120px;"><span style="color: #003366;">(+994&nbsp;12) 492 14 01</span></td>
+                            <td><span style="color: #003366;">(+994&nbsp;12) 492 14 01</span></td>
                             <td>
                                 <p><a href="http://www.manuscript.az/" target="_blank"><span style="color: #003366;"><span style="color: #003366;">manuscript.az</span></span></a><span style="color: #003366;">,</span></p>
                                 <p><span style="color: #003366;">direktor@manuscripts.science.az</span></p>
@@ -459,8 +459,8 @@
                                 <p><span style="color: #003366;">Arxeologiya və Etnoqrafiya İnstitutu</span></p>
                             </td>
                             <td><span style="color: #003366;">AZ1073, Bakı ş., H.Cavid pr. 115</span></td>
-                            <td style="width: 120px;"><span style="color: #003366;">(+994&nbsp;12)&nbsp;510 84 18</span></td>
-                            <td style="width: 120px;"><span style="color: #003366;">(+994&nbsp;12)&nbsp;510 84 19</span></td>
+                            <td><span style="color: #003366;">(+994&nbsp;12)&nbsp;510 84 18</span></td>
+                            <td><span style="color: #003366;">(+994&nbsp;12)&nbsp;510 84 19</span></td>
                             <td>
                                 <p><a href="http://arxeologiya.az/" target="_blank"><span style="color: #003366;"><span style="color: #003366;">arxeologiya.az</span></span></a><span style="color: #003366;">,</span></p>
                                 <p><span style="color: #003366;">director@archaeology.org.az<br></span></p>
@@ -585,12 +585,12 @@
                     <table class="table table-bordered" width="95%">
                         <tbody>
                         <tr>
-                            <td style="width: 25px;"><span style="color: #003366;"><strong>№</strong></span></td>
-                            <td style="width: 130px;"><span style="color: #003366;"><strong>Qurumun adı</strong></span></td>
-                            <td style="width: 120px;"><span style="color: #003366;"><strong>Ünvan</strong></span></td>
-                            <td style="width: 120px;"><span style="color: #003366;"><strong>Telefon</strong></span></td>
-                            <td style="width: 120px;"><span style="color: #003366;"><strong>Faks</strong></span></td>
-                            <td style="width: 140px;"><span style="color: #003366;"><strong>Rəsmi saytı və elektron ünvanı</strong></span></td>
+                            <td><span style="color: #003366;"><strong>№</strong></span></td>
+                            <td><span style="color: #003366;"><strong>Qurumun adı</strong></span></td>
+                            <td><span style="color: #003366;"><strong>Ünvan</strong></span></td>
+                            <td><span style="color: #003366;"><strong>Telefon</strong></span></td>
+                            <td><span style="color: #003366;"><strong>Faks</strong></span></td>
+                            <td><span style="color: #003366;"><strong>Rəsmi saytı və elektron ünvanı</strong></span></td>
                         </tr>
                         <tr>
                             <td><span style="color: #003366;">1</span></td>
@@ -623,12 +623,12 @@
                     <table class="table table-bordered" width="95%">
                         <tbody>
                         <tr>
-                            <td style="width: 25px;"><span style="color: #003366;"><strong>№</strong></span></td>
-                            <td style="width: 130px;"><span style="color: #003366;"><strong>Qurumun adı</strong></span></td>
-                            <td style="width: 120px;"><span style="color: #003366;"><strong>Ünvan</strong></span></td>
-                            <td style="width: 120px;"><span style="color: #003366;"><strong>Telefon</strong></span></td>
-                            <td style="width: 120px;"><span style="color: #003366;"><strong>Faks</strong></span></td>
-                            <td style="width: 140px;"><span style="color: #003366;"><strong>Rəsmi saytı və elektron ünvanı</strong></span></td>
+                            <td><span style="color: #003366;"><strong>№</strong></span></td>
+                            <td><span style="color: #003366;"><strong>Qurumun adı</strong></span></td>
+                            <td><span style="color: #003366;"><strong>Ünvan</strong></span></td>
+                            <td><span style="color: #003366;"><strong>Telefon</strong></span></td>
+                            <td><span style="color: #003366;"><strong>Faks</strong></span></td>
+                            <td><span style="color: #003366;"><strong>Rəsmi saytı və elektron ünvanı</strong></span></td>
                         </tr>
                         <tr>
                             <td><span style="color: #003366;">1</span></td>
@@ -664,21 +664,21 @@
                     <table class="table table-bordered" width="95%">
                         <tbody>
                         <tr>
-                            <td style="width: 25px;"><span style="color: #003366;"><strong>№</strong></span></td>
-                            <td style="width: 130px;"><span style="color: #003366;"><strong>Təhsil müəssisəsinin adı</strong></span></td>
-                            <td style="width: 120px;"><span style="color: #003366;"><strong>Ünvan</strong></span></td>
-                            <td style="width: 120px;"><span style="color: #003366;"><strong>Telefon</strong></span></td>
-                            <td style="width: 120px;"><span style="color: #003366;"><strong>Faks</strong></span></td>
-                            <td style="width: 140px;">
+                            <td><span style="color: #003366;"><strong>№</strong></span></td>
+                            <td><span style="color: #003366;"><strong>Təhsil müəssisəsinin adı</strong></span></td>
+                            <td><span style="color: #003366;"><strong>Ünvan</strong></span></td>
+                            <td><span style="color: #003366;"><strong>Telefon</strong></span></td>
+                            <td><span style="color: #003366;"><strong>Faks</strong></span></td>
+                            <td>
                                 <p><span style="color: #003366;"><strong>Rəsmi saytı və elektron ünvanı</strong></span></p>
                             </td>
                         </tr>
                         <tr>
                             <td><span style="color: #003366;">1</span></td>
-                            <td style="width: 170px;"><span style="color: #003366;">Bakı Dövlət Universiteti</span></td>
-                            <td style="width: 160px;"><span style="color: #003366;">Bakı ş., Z.Xəlilov küç. 23</span></td>
-                            <td style="width: 120px;"><span style="color: #003366;">(+994&nbsp;12) 598 33 76</span></td>
-                            <td style="width: 120px;"><span style="color: #003366;">(+994&nbsp;12) 598 33 76</span></td>
+                            <td><span style="color: #003366;">Bakı Dövlət Universiteti</span></td>
+                            <td><span style="color: #003366;">Bakı ş., Z.Xəlilov küç. 23</span></td>
+                            <td><span style="color: #003366;">(+994&nbsp;12) 598 33 76</span></td>
+                            <td><span style="color: #003366;">(+994&nbsp;12) 598 33 76</span></td>
                             <td>
                                 <p><a href="http://www.bsu.edu.az/" target="_blank"><span style="color: #003366;"><span style="color: #003366;">bsu.edu.az</span></span></a></p>
                                 <span style="color: #003366;">bsu@bsu.edu.az</span></td>
@@ -1006,12 +1006,12 @@
                     <table class="table table-bordered" width="95%">
                         <tbody>
                         <tr>
-                            <td style="width: 25px;"><span style="color: #003366;"><strong>№</strong></span></td>
-                            <td style="width: 130px;"><span style="color: #003366;"><strong>Ali məktəbin adı</strong></span></td>
-                            <td style="width: 120px;"><span style="color: #003366;"><strong>Ünvan</strong></span></td>
-                            <td style="width: 120px;"><span style="color: #003366;"><strong>Telefon</strong></span></td>
-                            <td style="width: 120px;"><span style="color: #003366;"><strong>Faks</strong></span></td>
-                            <td style="width: 140px;"><span style="color: #003366;"><strong>Rəsmi saytı və elektron ünvanı</strong></span></td>
+                            <td><span style="color: #003366;"><strong>№</strong></span></td>
+                            <td><span style="color: #003366;"><strong>Ali məktəbin adı</strong></span></td>
+                            <td><span style="color: #003366;"><strong>Ünvan</strong></span></td>
+                            <td><span style="color: #003366;"><strong>Telefon</strong></span></td>
+                            <td><span style="color: #003366;"><strong>Faks</strong></span></td>
+                            <td><span style="color: #003366;"><strong>Rəsmi saytı və elektron ünvanı</strong></span></td>
                         </tr>
                         <tr>
                             <td><span style="color: #003366;">1</span></td>
