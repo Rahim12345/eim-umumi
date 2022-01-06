@@ -23,13 +23,13 @@
                     <table class="table table-bordered">
                         <tbody>
                         <tr>
-                            <td style="width: 10%; text-align: center;" bgcolor="#32819f" width="47%">
-                                <p>&nbsp;<br><span style="color: #ffffff;"><strong>İl</strong></span></p>
+                            <td style="text-align: center;" bgcolor="#32819f">
+                                <div class="стиль38" align="center"><span style="color: #ffffff;"><strong><strong>İl</strong></strong></span></div>
                             </td>
-                            <td style="text-align: center; width: 10%;" bgcolor="#32819f" width="28%">
+                            <td style="text-align: center;" bgcolor="#32819f">
                                 <div class="стиль38" align="center"><span style="color: #ffffff;"><strong><strong>Fondun<br>&nbsp;maliyyələşdirilməsi,&nbsp;<br>manatla</strong></strong></span></div>
                             </td>
-                            <td bgcolor="#32819f" width="25%">
+                            <td bgcolor="#32819f">
                                 <div class="стиль38" style="text-align: center;" align="center"><span style="color: #ffffff;"><strong><strong>Azərbaycan Respublikasının dövlət büdcəsi haqqında</strong></strong></span></div>
                                 <div class="стиль38" style="text-align: center;" align="center"><span style="color: #ffffff;"><strong><strong>Azərbaycan Republikası Prezidentinin&nbsp;müvafiq Fərman və ya</strong></strong></span></div>
                                 <div class="стиль38" style="text-align: center;" align="center"><span style="color: #ffffff;"><strong><strong>Sərəncamın nömrəsi və tarixi, Fondla əlaqəli bəndin nömrəsi, elektron link</strong></strong></span></div>
@@ -39,10 +39,10 @@
                             <td style="text-align: center;">
                                 <p><span style="color: #003366;">2010</span></p>
                             </td>
-                            <td style="width: 5%;">
+                            <td>
                                 <div align="center"><span style="color: #003366;">7 022 400,0</span></div>
                             </td>
-                            <td style="width: 80%;">
+                            <td>
                                 <div style="text-align: left;" align="center">
                                     <p><span style="color: #003366;">&nbsp;№187, 26 noyabr 2009-cu il; bənd 2.1.8.14;</span></p>
                                     <p><span style="color: #003366;">&nbsp;<span style="text-decoration: underline;"><a href="http://www.e-qanun.az/framework/18866" target="_blank"><span style="color: #003366; text-decoration: underline;">http://www.e-qanun.az/framework/18866</span></a></span></span></p>
