@@ -21,8 +21,17 @@
             <p style="padding-left: 30px;"><span style="color: #003366;">1. "Azərbaycan Respublikasının Prezidenti yanında Elmin İnkişafı Fondunun Nizamnaməsi" təsdiq edilsin (əlavə olunur).</span><br><span style="color: #003366;">2.&nbsp;Azərbaycan Respublikasının Prezidenti yanında Elmin İnkişafı Fondunun işçilərinin say həddi 10 ştat vahidi müəyyən edilsin.</span><br><span style="color: #003366;">3.&nbsp;Azərbaycan Respublikasının Nazirlər Kabineti:</span></p>
             <p style="padding-left: 60px; text-align: justify;"><span style="color: #003366;">3.1. bir ay müddətinə&nbsp;Azərbaycan Respublikasının Prezidenti yanında Elmin İnkişafı Fondunun xərclər smetasını, ştat<br>&nbsp; &nbsp; &nbsp; &nbsp;cədvəlini və işçilərin aylıq vəzifə maaşlarını müəyyən etsin;</span><br><span style="color: #003366;">3.2.&nbsp;Azərbaycan Respublikasının Prezidenti yanında Elmin İnkişafı Fondunun maddi-texniki təminatı ilə bağlı zəruri tədbirləri<br>&nbsp; &nbsp; &nbsp; &nbsp;həyata keçirsin;</span><br><span style="color: #003366;">3.3. bu Fərmandan irəli gələn digər məsələləri həll etsin.</span></p>
             <p style="padding-left: 30px;"><span style="color: #003366;">4. Azərbaycan Respublikasının Ədliyyə Nazirliyinə tapşırılsın ki, 1 ay müddətində&nbsp;Azərbaycan Respublikasının Prezidenti yanında Elmin İnkişafı Fondunun dövlət qeydiyyatına alınmasını təmin etsin.</span><br><br></p>
-            <p style="padding-left: 420px; text-align: center;"><span style="color: #003366;"><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br></strong><strong>İlham ƏLİYEV<br></strong><strong>Azərbaycan Respublikasının Prezidenti</strong></span></p>
-            <p style="padding-left: 30px; text-align: left;"><span style="color: #003366;">Bakı şəhəri, 19 fevral 2010-cu il</span><br><span style="color: #003366;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; №223</span><br><br></p>
+            <div class="row">
+                <div class="col-md-6 text-dark font-weight-bold float-left">Bakı şəhəri, 19 fevral 2010-cu il <br>
+                    №223
+                </div>
+                <div class="col-md-6 text-dark font-weight-bold float-right">
+                    İlham ƏLİYEV <br>
+                    Azərbaycan Respublikasının Prezidenti
+                </div>
+
+            </div>
+
             <hr>
             <h4 style="text-align: right;"><span style="color: #003366;">&nbsp;</span></h4>
             <p style="text-align: center;"><span style="color: #003366;"><img src="https://www.sdf.gov.az/development/uploads/gerb_azerbaijan.jpg" alt="gerb_azerbaijan" width="96" height="105">&nbsp;</span></p>
